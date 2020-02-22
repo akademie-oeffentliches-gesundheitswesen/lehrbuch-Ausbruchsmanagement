@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AUS04-Ausbruchsmanagement
+title: 04-Ausbruchsmanagement
 nav_order: 4
 ---
  

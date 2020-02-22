@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AUS03-Vorbereitung
+title: 03-Vorbereitung
 nav_order: 3
 ---
  

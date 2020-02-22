@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  AUS02-Grundlagen
+title: S02-Grundlagen
 nav_order: 2
 ---
  

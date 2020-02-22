@@ -30,6 +30,9 @@ document <- readLines(a)
 # Get document title
 title_line <- document[grep("<title", document)]
 title <- strsplit(strsplit(title_line, ">")[[1]][2], "<")[[1]][1]
+title <- sub(".", "", title)
+title <- sub(".", "", title)
+title <- sub(".", "", title)
 
 # Get content out of document
 document <- document[grep("<div class=\"article-part article-richtext article-body\">", document) ][1]

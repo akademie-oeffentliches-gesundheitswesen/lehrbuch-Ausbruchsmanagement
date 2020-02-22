@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AUS05-Spezifische Ausbrüche
+title: 05-Spezifische Ausbrüche
 nav_order: 5
 ---
  

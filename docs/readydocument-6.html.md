@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AUS06-Anhang
+title: 06-Anhang
 nav_order: 6
 ---
  

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AUS01-Einleitung
+title: 01-Einleitung
 nav_order: 1
 ---
  
