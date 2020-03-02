@@ -18,17 +18,6 @@ nav_order: 2
  
 # <span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371280">Rechtsgrundlagen</span>
 
-<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26371230">Ein
-wesentlicher Punkt zur
-</span><span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26371220">effiziente</span><span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26371230">n</span><span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26371220">
-und
-zeitnahe</span><span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26371230">n</span><span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26371220">
-Untersuchung und Aufklärung von Ausbrüchen
-</span><span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26371230">ist
-die Kenntniss zu gesetzlichen Regelungen und
-Zuständigkeiten</span>.<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26371230">
-</span>
-
 Gemäß Infektionsschutzgesetz (IfSG) ist das zuständige Gesundheitsamt
 <span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371280">der
 kommunalen Verwaltungsebene </span>für Ermittlungen und die Anordnung
@@ -39,18 +28,23 @@ Falle eines
 führt das Gesundheitsamt Ermittlungen im Hinblick auf Ursache,
 Ansteckungsquellen und Ausbreitung sowie Umgebungsuntersuchungen durch,
 zudem trifft es Maßnahmen zur Abwendung der dem Einzelnen oder der
-Allgemeinheit drohenden Gefahren.
+Allgemeinheit drohenden
+Gefahren.
 
-Ermittelte Falldaten werden einem Ausbruch zugeordnet und elektronisch
-an die Landesbehörden und von dort an das Robert Koch-Institut
+<span class="approved-insertion" data-user="53" data-username="UlbrichU" data-date="26372970">Im
+Fall einer Häufung von Fällen, die vermutlich oder tatsächlich in einem
+Zusammenhang stehen, werden e</span>rmittelte Falldaten einem Ausbruch
+zugeordnet und elektronisch an die Landesbehörden und von dort an das
+Robert Koch-Institut
 <span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371280">(RKI)
-weiter </span>übermittelt. Die Landesbehörden können als fachlicher
-Ansprechpartner<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371280">/in</span>
-bei besonderen oder kreisübergreifenden Ausbruchsuntersuchungen
-herangezogen werden. In Abstimmung mit den Landesbehörden und den
-zuständigen Ministerien kann auch das RKI um Mithilfe gebeten
-werden.<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372690">
-</span> Bei länderübergreifenden Ausbrüchen kann das RKI das
+weiter </span>übermittelt. Die Landesbehörden können als fachliche
+Ansprechpartner bei besonderen oder kreisübergreifenden
+Ausbruchsuntersuchungen herangezogen werden.
+<span class="approved-insertion" data-user="53" data-username="UlbrichU" data-date="26372970">In
+besonderen Situationen kann die zuständige Landesgesundheitsbehörde
+</span>auch das RKI um Mithilfe
+<span class="approved-insertion" data-user="53" data-username="UlbrichU" data-date="26372970">bitten
+(§ 4 IfSG)</span>. Bei länderübergreifenden Ausbrüchen kann das RKI das
 Koordinierungsverfahren gemäß IfSGKoordinierungs-VwV einleiten.
 ([http://www.verwaltungsvorschriften-im-internet.de/bsvwvbund\_12122013\_31945300302.htm](http://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_12122013_31945300302.htm "IfSGKoordinierungs-VwV"))
 
@@ -62,11 +56,28 @@ wenn ein Arzneimittel die Quelle einer Infektion sein könnte,
 (Unterrichtspflichten des Gesundheitsamtes) unverzüglich die zuständige
 Behörde.
 
+<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372840">Mittels
+molekularer
+Surveillance</span><span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372850">
+und digitaler
+Epidemiologie</span><span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372840">
+werden zunehmend Ausbrüche auch auf Landes und Bundesebene detektiert.
+Die</span><span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372850">s
+wird voraussichtlich zunehmend Einfluss
+auf</span><span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372840">
+</span><span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372850">Struktur
+von
+</span><span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372840">Ausbruchsdetektion
+und
+Ausbruchsuntersuchung</span><span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372850">en
+haben.
+</span>
+
 ## **<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26370270">Überwachung von Infektionskrankheiten und </span>Ermittlungen nach dem Infektionsschutzgesetz<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26370190"> (IfSG)</span>**
 
 Das
 I<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26370270">nfektionsgesetz</span>
-regelt u. a. Meldepflichten und Meldewege . Zu melden sind die in §§ 6
+regelt u. a. Meldepflichten und Meldewege. Zu melden sind die in §§ 6
 und 7 IfSG sowie ergänzend in Rechtsverordnungen des Bundes und der
 Länder bestimmten Krankheiten und Erregernachweise (Überblick auf
 www.rki.de \> Infektionsschutz \> Infektionsschutzgesetz \>
@@ -87,14 +98,16 @@ Koch-Institut<span class="approved-insertion" data-user="55" data-username="Math
 (RKI) ermittelt werden. Zur Entgegennahme von epidemisch bedeutsamen
 Meldungen muss das zuständige Gesundheitsamt für die zur Meldung
 verpflichteten Personen auch außerhalb von regulären Dienstzeiten
-erreichbar sein. Das Gesundheitsamt muss unverzüglich die zuständige
-Landesbehörde und diese das RKI informieren. Im Gesundheitsamt werden
-die Meldungen geprüft, durch Ermittlungen um Informationen ergänzt und
-zu Fällen zusammengeführt. Zur Ermittlung weiterer Informationen können
-die betroffenen Personen vom Gesundheitsamt vorgeladen, befragt und
-untersucht werden; zur Meldung verpflichtete Personen und Dritte sind
-ggf. zur Erteilung von Auskünften an das Gesundheitsamt verpflichtet (§
-25
+erreichbar
+sein<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372890">
+(\#Rechtgrundlage?)</span>. Das Gesundheitsamt muss unverzüglich die
+zuständige Landesbehörde und diese das RKI informieren. Im
+Gesundheitsamt werden die Meldungen geprüft, durch Ermittlungen um
+Informationen ergänzt und zu Fällen zusammengeführt. Zur Ermittlung
+weiterer Informationen können die betroffenen Personen vom
+Gesundheitsamt vorgeladen, befragt und untersucht werden; zur Meldung
+verpflichtete Personen und Dritte sind ggf. zur Erteilung von Auskünften
+an das Gesundheitsamt verpflichtet (§ 25
 IfSG).<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26370290">
 </span>Falls ein Fall die spezifischen Falldefinitionen des RKI (§ 11
 Abs. 2 IfSG) erfüllt, wird er gemäß § 11 Abs. 1 IfSG elektronisch an die
@@ -140,7 +153,8 @@ Die Erstinformation über Ausbrüche kann
     Labormeldungen<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26370190">
     </span>(<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371290">nach
     </span>[§ 7
-    IfSG](https://www.gesetze-im-internet.de/ifsg/__7.html "§7 IfSG"))
+    IfSG](https://www.gesetze-im-internet.de/ifsg/__7.html "§7 IfSG")<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372890">),
+    seltene Befundkonstellationen</span>
 
   - Arztmeldungen
     <span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371290">(</span>nach
@@ -172,14 +186,18 @@ Die Erstinformation über Ausbrüche kann
     Landesbehörde an das
     RKI</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371290">)</span><span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26370140">.</span>
 
-Krankheiten, die
+Krankheiten<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372890">
+oder Symptome</span>, die
 <span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26370140">nicht
 durch
 </span><span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26370150">erregerspezifische</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26370190">
 </span><span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26370140">Meldeka</span><span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26370150">tegorien
 erfasst werden, wie zum Bsp. b</span>akterielle
 To<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26370150">xin-Bildner,
-Pseudomonaden etc. </span>können
+Pseudomonaden</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372890">
+oder Häufungen von
+Konjunktivitis</span><span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26370150">
+</span>können
 <span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26370150">über
 die</span>
 Meldekategorie<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26370150">n</span>
@@ -212,41 +230,8 @@ gemäß
 
 Kontaktpersonen oder Ansteckungsverdächtige können einer Beobachtung
 unterworfen werden (§ 29 IfSG). Dadurch werden die Ermittlungsbefugnisse
-des Gesundheitsamtes in die Zukunft erstreckt (vgl. § 29 IfSG).
-
-### Absonderung (Isolierung, Quarantäne)
-
-Absonderungsmaßnahmen (als Oberbegriff) sind von Behörden angeordnete
-Schutzmaßnahmen, welche die Bewegungsfreiheit von Personen einschränken.
-Betroffen können Erkrankte, Krankheitsverdächtige,
-Ansteckungsverdächtigte oder Ausscheidende sein. Das Ziel von
-Absonderungsmaßnahmen ist es, die Ausbreitung zu verhindern, wenn andere
-– weniger in die Rechte der Betroffenen eingreifende Maßnahmen –
-fachlich nicht wirkungsvoll sind oder nicht zur Verfügung stehen. Ob
-eine Absonderung angeordnet wird, liegt im Ermessen der zuständigen
-Behörde (Gesundheitsamt). Bei der Absonderung von Erkrankten spricht
-man von „Isolierung“, bei der Absonderung von Ansteckungsverdächtigen
-von „Quarantäne“. Eine Isolierung findet in der Regel in spezialisierten
-Krankenhäusern statt – bei Krankheiten durch hochpathogene Erreger auf
-Sonderisolierstationen, die sich im Ständigen Arbeitskreis der
-Kompetenz- und Behandlungszentren zusammengeschlossen haben . Sollte
-eine Isolierung in einem spezialisierten Krankenhaus nicht möglich sein,
-kann auch in einem weniger spezialisierten Krankenhaus eine geeignete
-Unterbringung ermöglicht werden, z. B. in dem eine provisorische
-Isolierstation errichtet wird. Hierbei sind der Beschluss des
-Ausschusses für biologische Arbeitsstoffe (ABAS) Nr. 610 sowie die
-technischen Regeln für biolo-gische Arbeitsstoffe (TRBA) 250 zu
-beachten. In Situationen, in denen eine individuelle Isolierung z. B.
-aufgrund der räumlichen Gegebenheiten nicht möglich ist, sind ggf.
-alternative Maßnahmen wie eine Kohortenisolierung zu
-erwägen.Kontaktpersonen oder Ansteckungsverdächtige können einer
-Beobachtung unterworfen werden (§§ 28, 29 und 30 IfSG). Hierfür
-geeignete Einrichtungen und Transportmittel zur Verfügung zu stellen ist
-Aufgabe der betroffenen Bundesländer bzw. Gebietskörperschaften.
-<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26370280"><span class="citation">(“Epidemisch
-bedeutsamer Lagen erkennen, bewerten und geneinsam erfolgreich
-bewältigen,”
-2019)</span></span>
+des Gesundheitsamtes in die Zukunft erstreckt (vgl. § 29
+IfSG).
 
 ### Berufliche Tätigkeitsverbote und Besuchsverbote von Gemeinschaftseinrichtungen
 
@@ -254,7 +239,7 @@ Aus Gründen des Infektionsschutzes kann Menschen für begrenzte Zeit
 verboten werden, bestimmte Tätigkeiten auszuführen: z. B. dürfen an
 bestimmten Infektionskrankheiten Erkrankte nicht in
 lebensmittelverarbeitenden Betrieben, im Gesundheitswesen oder auch in
-Gemeinschafts-einrichtungen für Kinder und Jugendliche arbeiten.
+Gemeinschaftseinrichtungen für Kinder und Jugendliche arbeiten.
 
 Teilweise bestehen derartige Verbote bereits von Gesetzes wegen, so etwa
 in Bezug auf Gemeinschaftseinrichtungen gemäß § 33 IfSG (§ 34 IfSG) oder
@@ -272,36 +257,26 @@ Jugendliche dürfen nicht in den Gemeinschaftseinrichtungen betreut
 werden, wenn sie an einer der im IfSG § 34 genannten Krankheiten leiden
 oder dessen verdächtig sind <span class="citation">(“Epidemisch
 bedeutsamer Lagen erkennen, bewerten und geneinsam erfolgreich
-bewältigen,”
-2019)</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371690">.</span>
+bewältigen,” 2019)</span>.
 
 ### Schließen von Einrichtungen, Verbot von Veranstaltungen
 
-<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371290">Z</span>ur
-Verhinderung der Ausbreitung von Infektionskrankheiten
-<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371290">können</span>
-gemäß § 28 IfSG Gemeinschaftseinrichtungen oder Badeanstalten
-<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371290">geschlossen</span>
+Zur Verhinderung der Ausbreitung von Infektionskrankheiten können gemäß
+§ 28 IfSG Gemeinschaftseinrichtungen oder Badeanstalten geschlossen
 werden. Zudem kann das Gesundheitsamt Veranstaltungen oder sonstige
 Ansammlungen einer größeren Anzahl von Menschen beschränken oder
-verbieten<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372690">
-</span><span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372700"><span class="citation">(“Infektionsschutzgesetz,”
-2020)</span></span>.<span class="citation">(“Epidemisch bedeutsamer
-Lagen erkennen, bewerten und geneinsam erfolgreich bewältigen,”
-2019)</span>
+verbieten <span class="citation">(“Infektionsschutzgesetz,”
+2020)</span>.<span class="citation">(“Epidemisch bedeutsamer Lagen
+erkennen, bewerten und geneinsam erfolgreich bewältigen,” 2019)</span>
 
-Allerdings ist zu bedenken, dass Kontakte
-<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371290">von</span>
-Kinder<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371290">n</span>
-und Jugendlichen untereinander auch im privaten Umfeld bestehen und
-allein durch die Schließung
-<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371290">einer</span>
-Gemeinschaftseinrichtung eine Unterbrechung von Infektionsketten nicht
-vollständig möglich ist. Empfehlungen des Robert Koch-Instituts für die
-Wiederzulassung zu Gemeinschaftseinrichtungen gemäß § 34
-Infektionsschutzgesetz
+Allerdings ist zu bedenken, dass Kontakte von Kindern und Jugendlichen
+untereinander auch im privaten Umfeld bestehen und allein durch die
+Schließung einer Gemeinschaftseinrichtung eine Unterbrechung von
+Infektionsketten nicht vollständig möglich ist. Empfehlungen des Robert
+Koch-Instituts für die Wiederzulassung zu Gemeinschaftseinrichtungen
+gemäß § 34 Infektionsschutzgesetz
 
-### <span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372730">Empfehlungen für die Wiederzulassung zu Gemeinschaftseinrichtungen</span>
+### Empfehlungen für die Wiederzulassung zu Gemeinschaftseinrichtungen
 
 In Gemeinschaftseinrichtungen wie Schulen und Kitas kommen Säuglinge,
 Kinder und Jugendliche täglich miteinander und mit dem betreuenden
@@ -312,13 +287,10 @@ Infektionsschutzgesetz (IfSG) besondere Regelungen für die in
 Gemeinschaftseinrichtungen betreuten Kinder und betreuenden Erwachsenen
 vor.
 
-Das Robert Koch-Institut (RKI)
-<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372740">hat
-auf</span> Grundlage des § 4 IfSG Empfehlungen für die Wiederzulassung
-zu
-Gemeinschaftseinrichtungen<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372740">
-erstellt</span>. Zielgruppen dieser Empfehlungen sind in erster Linie
-der Öffentliche Gesundheitsdienst (ÖGD) und die medizinische
+Das Robert Koch-Institut (RKI) hat auf Grundlage des § 4 IfSG
+Empfehlungen für die Wiederzulassung zu Gemeinschaftseinrichtungen
+erstellt. Zielgruppen dieser Empfehlungen sind in erster Linie der
+Öffentliche Gesundheitsdienst (ÖGD) und die medizinische
 Fachöffentlichkeit.
 
 Die Auswahl der Krankheiten und Erreger für dieses Dokument erfolgte auf
@@ -331,6 +303,40 @@ liegt hierbei auf den Aspekten der Wiederzulassung. Ausführlichere
 Informationen zu den einzelnen Infektionskrankheiten finden sich in
 anderen RKI-Publikationen, z.B. den RKI-Ratgebern
 ([www.rki.de/ratgeber](https://www.rki.de/DE/Content/Infekt/EpidBull/Merkblaetter/merkblaetter_node.html "Robert Koch-Institut-Ratgeber")).
+
+### Absonderung (Isolierung, Quarantäne)
+
+Absonderungsmaßnahmen (als Oberbegriff) sind von Behörden angeordnete
+Schutzmaßnahmen, welche die Bewegungsfreiheit von Personen einschränken.
+Betroffen können Erkrankte, Krankheitsverdächtige,
+Ansteckungsverdächtigte oder Ausscheidende sein. Das Ziel von
+Absonderungsmaßnahmen ist es, die Ausbreitung zu verhindern, wenn andere
+– weniger in die Rechte der Betroffenen eingreifende Maßnahmen –
+fachlich nicht wirkungsvoll sind oder nicht zur Verfügung stehen. Ob
+eine Absonderung angeordnet wird, liegt im Ermessen der zuständigen
+Behörde (Gesundheitsamt). Bei der Absonderung von Erkrankten spricht
+man von „Isolierung“, bei der Absonderung von Ansteckungsverdächtigen
+von „Quarantäne“. Eine Isolierung findet in der Regel in spezialisierten
+Krankenhäusern statt – bei Krankheiten durch hochpathogene Erreger auf
+Sonderisolierstationen, die sich im Ständigen Arbeitskreis der
+Kompetenz- und Behandlungszentren zusammengeschlossen haben. Sollte eine
+Isolierung in einem spezialisierten Krankenhaus nicht möglich sein, kann
+auch in einem weniger spezialisierten Krankenhaus eine geeignete
+Unterbringung ermöglicht werden, z. B. in dem eine provisorische
+Isolierstation errichtet wird. Hierbei sind der Beschluss des
+Ausschusses für biologische Arbeitsstoffe (ABAS) Nr. 610 sowie die
+technischen Regeln für biologische Arbeitsstoffe (TRBA) 250 zu beachten.
+In Situationen, in denen eine individuelle Isolierung z. B. aufgrund der
+räumlichen Gegebenheiten nicht möglich ist, sind ggf. alternative
+Maßnahmen wie eine Kohortenisolierung zu
+erwägen.<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372920">
+</span>Kontaktpersonen oder Ansteckungsverdächtige können einer
+Beobachtung unterworfen werden (§§ 28, 29 und 30 IfSG). Hierfür
+geeignete Einrichtungen und Transportmittel zur Verfügung zu stellen ist
+Aufgabe der betroffenen Bundesländer bzw. Gebietskörperschaften.
+<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26370280"><span class="citation">(“Epidemisch
+bedeutsamer Lagen erkennen, bewerten und geneinsam erfolgreich
+bewältigen,” 2019)</span></span>
 
 # Begleitende Methodik des Ausbruchsmanagement
 
@@ -353,14 +359,16 @@ oder
 5)</span></span>.
 
 Dies zur Folge haben auch einige Gesetze aus dem Projektmanagement, wie
-1998 formuliert von der Amercian Production and Inventory Control
-Society, eine Bedeutung für das Ausbruchsmanagement und lohnen sich der
+1998 formuliert von der
+Amer<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372920">i</span>can
+Production and Inventory Control Society, eine Bedeutung für das
+Ausbruchsmanagement und lohnen sich der
 Vergegenwärtigung<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371680">
 <span class="citation">(Frei übersetzt nach Slack, Chambers, Harland, &
 Johnston,
     1998)</span></span>:
 
-  - *<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371680">"Kein
+  - *<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371680">Kein
     größeres Projekt wurde jemals im Zeitrahmen, im Budgetrahmen oder
     mit dem gleichen Personal wie am Anfang fertiggestellt. Ihres wird
     nicht das Erste sein.
@@ -391,8 +399,7 @@ Johnston,
   - *<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371680">Projektteams
     hassen Fortschrittsberichte, da sie
     </span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371690">eindringlich
-    ihren mangelnden Fortschritt
-    aufzeigen.</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371670">"</span>*
+    ihren mangelnden Fortschritt aufzeigen.</span>*
 
 Die Pflicht zur Dokumentation nimmt in den letzten Jahren kontinuierlich
 zu und hat häufig einen frustrierenden Effekt. Beim Management von
@@ -455,7 +462,9 @@ Zuständigkeiten klar geregelt werden, wodurch das Verantwortungsgefühl
 der Mitarbeitenden für einzelne Schritte erhöht wird. Eine solche
 Übersicht stellt
 d<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371690">er
-Projektstrukturplan oder PSP</span> dar. Bei
+Projektstrukturplan
+</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372950">(</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371690">PSP</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372950">)</span>
+dar. Bei
 de<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371690">m</span>
 <span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371690">PSP</span>
 handelt es sich um eine hierarchische Aufteilung der Arbeit in
@@ -496,19 +505,47 @@ gebracht</span><span class="approved-insertion" data-user="55" data-username="Ma
 und graphisch
 dargestellt</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371540">
 werden</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371550">.
-Die Netzplantechnik stellt hierbei die klassische Darstellungsform dar.
-Gerade aber in Projekten mit einer hohen Umweltunsicherheit und -dynamik
-können auch andere Modelle, wie Program Evaluation and Review Technique
+D</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372860">as
+Gantt-Diagramm oder
+die</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372880">
+Netzplantechnik</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372860">
+</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371550">stell</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372860">en</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371550">
+hierbei klassische Darstellungsform
+dar</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372880">
+\[</span>[<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372880">Weiterführendes
+Material</span>](http://www.informatik.uni-ulm.de/pm/fileadmin/pm/home/frank/vorlesung/pm_slides_kap2.pdf "Weiterführendes Material")<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372880">\]</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371550">.
+</span>
+
+![<span class="figure-cat-figure">Figure</span><span data-caption="Schematische Darstellung der (A) Netzplantechnik und (B) eines Gantt-Diagramms.">Schematische
+Darstellung der (A) Netzplantechnik und (B) eines
+Gantt-Diagramms.</span>](2f26775f-0d87-4ce2-8ecb-a1799a64823f.jpg)
+
+<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371550">Gerade
+aber in Projekten mit einer hohen Umweltunsicherheit und -dynamik können
+auch andere Modelle, wie Program Evaluation and Review Technique
 (</span>[<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371550">PERT</span>](https://europepmc.org/article/med/10141769 "PERT")<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371550">)
 oder Graphical Evaluation and Review Technique
 (</span>[<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371560">GERT</span>](https://ieeexplore.ieee.org/abstract/document/4443442 "GERT")<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371550">)
 verwendet werden, welche auch Unsicherheiten und verschiedene
-Eintrittswahrscheinlichkeiten berücksichtigen können. </span>
+Eintrittswahrscheinlichkeiten berücksichtigen können.
+</span>
 
-## Risikobewertung
+## Risiko<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372870">management</span>
 
-Risikobewertungen sollten ab Beginn eines Ausbruchs regelmäßig
-durchgeführt werden, auch um die eigene Strategie in Abständen zu
+Als Risikomanagement wird der Prozess der Identifizierung, Bewertung und
+Kontrolle von Bedrohungen, beispielsweise für die Gesundheit der
+Bevölkerung, verstanden. Risiken können aus unterschiedlichen Gründen
+bestehen, z.B. Unsicherheit, rechtliche Verpflichtungen,
+Managementfehler oder falsche Informationen. Strategien und Pläne um
+Risiken zu managen sind zu einer wichtigen Prioritäten geworden um sich
+auf Unerwartetes vorzubereiten, indem Risiken, und zusätzliche Kosten,
+minimiert werden, bevor sie
+eintreten.
+
+<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372870">Im
+Rahmen des Risikomanagement sollten daher </span>Risikobewertungen ab
+Beginn eines Ausbruchs regelmäßig durchgeführt werden, auch um die
+eigene Strategie in Abständen zu
 überprüfen.<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371680">
 </span>
 
@@ -519,28 +556,26 @@ den Umständen ausgewählt und mit dem Team das den
 Ausbruch<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372700">
 </span>untersucht vereinbart werden.
 
-Ein etabliertes Risikomanagementmodell wird im Folgenden beschrieben und
-berücksichtigt fünf verschiedene
+Ein etabliertes Risikomanagementmodell wird im
+Folgenden<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372870">
+beispieldhaft</span> beschrieben und berücksichtigt fünf verschiedene
 Elemente<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371680">
 <span class="citation">(Public Health England,
 2014)</span></span>:<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371680">
-</span>
-
-  - <span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371710">Schweregrad</span>
-
-  - <span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372710">Evidenz</span>
-
-  - <span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371710">Ausbreitung</span>
-
-  - <span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371710">Intervention</span>
-
-  - <span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371710">Kontext</span>
+</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372870">
+</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371710">Schweregrad</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372870">,
+</span><span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372710">Evidenz</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372870">,
+</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371710">Ausbreitung</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372870">,
+</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371710">Intervention</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372870">
+und
+</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371710">Kontext</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372870">.</span>
 
 #### Risikomanagementmodell für die Kontrolle übertragbarer Krankheiten
 
 ##### Schweregrad
 
-Die Schwere
+Die<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372870">
+Beurteilung der</span> Schwere
 de<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372710">r
 Erkrankungen</span>
 
@@ -664,12 +699,18 @@ Verwendung</span><span class="approved-insertion" data-user="55" data-username="
 von standardisierten Ermittlungsbögen und
 vor</span><span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372720">liegenden
 Checklisten</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371710">.
-Die zweite Säule stellt eine fortlaufende Schwachstellen- und
-Fehleranalyse dar, welche Erkenntnisse aus vergangenen Ausbrüchen zu
-nutzen versucht. Hierbei ist eine offenen Fehlerkultur von großer
-Bedeutung, welche Fehler nicht als moralisch verwerfliche Schuld des
-Einzelnen versteht, sondern als ein natürlich auftretendes Phänomen,
-welches zur Prozessverbesserung genutzt werden kann. Eine offene
+</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372970">Hierbei
+kann häufig in großem Ausmaß auf bereits bestehendes Material in den
+lokalen Behörden zurückgegriffen werden.
+</span>
+
+<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371710">Die
+zweite Säule stellt eine fortlaufende Schwachstellen- und Fehleranalyse
+dar, welche Erkenntnisse aus vergangenen Ausbrüchen zu nutzen versucht.
+Hierbei ist eine offenen Fehlerkultur von großer Bedeutung, welche
+Fehler nicht als moralisch verwerfliche Schuld des Einzelnen versteht,
+sondern als ein natürlich auftretendes Phänomen, welches zur
+Prozessverbesserung genutzt werden kann. Eine offene
 Fehlerkultur</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371720">
 verhindert, dass Fehler unter den Teppich gekehrt werden und so sowohl
 die aktuelle Ausbruchsbearbeitung behindern, als auch bei zukünftigen
@@ -683,6 +724,15 @@ Verursachers. Diese werden z.B. für Krankenhäuser bereits genutzt und
 können zur Aufklärung von Übertragungswegen beitragen
 (</span>[<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371720">KH-CIRS-Netz
 Deutschland</span>](https://www.kh-cirs.de/ "KH-CIRS-Netz Deutschland")<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371720">).
+</span>
+
+<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372960">Für
+ein kontinuierliches Qualitätsmanagement ist es daher wichtig, dass im
+Anschluss an bzw. bereits während der Bearbeitung von Ausbrüchen
+Evaluationstreffen und -mechanismen eingeplant werden, sodass
+Erkenntnisse</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372970">
+aus der Vergangenheit gezogen werden können und nicht nach kurzer Zeit
+wieder in Vergessenheit geraten.
 </span>
 
 ## Stakeholder Management
@@ -738,6 +788,22 @@ zu könne, wie in einem späteren Kapitel diese Buches darauf eingegangen
 wird.
 </span>
 
+<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372830">Im</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372890">
+</span>[<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372890">Nationaler
+Pandemieplan Teil I des
+RKI</span>](https://edoc.rki.de/bitstream/handle/176904/187/28Zz7BQWW2582iZMQ.pdf?sequence=1&isAllowed=y "Nationalen Pandemieplan Teil I des RKI")<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372830">
+</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372890">(Kapitel
+1.4)</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372830">
+wird eine Übersicht über relevante Akteure
+</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372890">im
+Pandemiefall
+</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372830">gegeben</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372890">.
+</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372830">
+</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372980">Die
+genauer beteiligten Strukturen sind in den folgenden praktischen
+Anwendungsabläufen weiter
+erklärt.</span>
+
 # **<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26370160">Definition</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26370190">en</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371620">/Beschreibungen</span>**
 
 <span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372760">In
@@ -746,29 +812,82 @@ diesem Kapitel finden Sie
 Übersicht zu Fachwörtern aus Infektionsschutz und
 Infektionsepidemiologie die im Rahmen der Durchführung des
 Ausbruchsmanagements relevant
-sind.</span><span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372760">
+sind</span><span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372760">
 </span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371610">(siehe
 auch</span><span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372770">
-</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371620">Fachwörterbuch
-Infektionsschutz
-</span><span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372770">und
-Infektionsepidemiologie des
-RKI</span><span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372780"><span class="citation">(n.d.-b)</span><span class="citation">(n.d.-a)</span></span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371610">)</span>
+</span>[<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372920">Fachwörterbuch
+Infektionsschutz und Infektionsepidemiologie des
+RKI</span>](https://www.rki.de/DE/Content/Service/Publikationen/Fachwoerterbuch_Infektionsschutz.pdf?__blob=publicationFile "Fachwörterbuch Infektionsschutz und Infektionsepidemiologie des RKI")<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372890">
+</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372900"><span class="citation">(Robert
+Koch Institut, 2015)</span>.
+</span>
 
-## Absonderungsmaßnahmen(engl.: separation measures, isolation measures)
+## Absonderungsmaßnahmen<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372950"> </span>(engl.: separation measures, isolation measures)
 
 Ein Komplex von Schutzmaßnahmen (überwiegend behördlich angeordnet), die
 in einer zeitweiligen Beschränkung der Bewegungsfreiheit (Separierung)
 infektiöser oder vermutlich infektiöser Personen bestehen. Theoretische
-Grundlage ist das allgemeine Prinzip der →Distanzierung.Die Absonderung
-kann in dem Festlegen eines bestimmten Aufenthaltes oder in bestimmten
-Ver-boten bzw. →Sperrmaßnahmen bestehen und mit Auflagen verbunden sein
-(§28 IfSG).Zu den Absonderungsmaßnahmen zählen das zeitweilige
-→Tätigkeits- oder Beschäftigungsverbot (§§31, 34, 42 IfSG), das
-→Betretungs-, Benutzungs- und Teilnahmeverbot für
-Gemeinschaftseinrichtungen (§34 IfSG), →Isolierung, →Quarantäne(§30
-IfSG)
-u.a.
+Grundlage ist das allgemeine Prinzip
+der<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372810">
+</span>Distanzierung.<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372940">
+</span>Die Absonderung kann in dem Festlegen eines bestimmten
+Aufenthaltes oder in bestimmten Verboten bzw. Sperrmaßnahmen bestehen
+und mit Auflagen verbunden sein (§28
+IfSG).<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372940">
+</span>Zu den Absonderungsmaßnahmen zählen das zeitweilige Tätigkeits-
+oder Beschäftigungsverbot (§§31, 34, 42 IfSG), das Betretungs-,
+Benutzungs- und Teilnahmeverbot für Gemeinschaftseinrichtungen (§34
+IfSG), Isolierung, Quarantäne(§30 IfSG) u.a.
+
+## **Ansteckungsverdächtiger**
+
+Eine Person, von der anzunehmen ist, dass sie Krankheitserreger
+aufgenommen hat, ohne
+krank,<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372940">
+</span>krankheitsverdächtig oder Ausscheider zu sein
+
+## Ausbruchsstamm (engl.: outbreak strain)
+
+Der ein bestimmtes Infektionsgeschehen verursachende Erreger mit seinen
+durch Feintypisierung definierten Eigenschaften (auch: Epidemiestamm)
+<span class="citation">(Kiehl,
+2015)</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372930">.
+Die Tiefe der Feintypisierung wird durch den wissenschaftlichen
+Fortschritt bestimmt. Die Akteure sollten sich der diagnostischen
+Präzision bewusst sein, mit der ein Erreger als "Ausbruchsstamm"
+definiert
+wird.</span>
+
+<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372930">Beispiel
+Salmonellenfeintypisierung</span>
+
+<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372930">Gattung</span>
+
+<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372930">Salmonella</span>
+
+<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372930">Spezies</span>
+
+*<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372930">enterica</span>*
+
+<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372930">Subspezies</span>
+
+*<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372930">enterica</span>*
+
+<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372930">Serotyp</span>
+
+<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372930">Enteritidis</span>
+
+<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372930">Lysotyp/
+Phagentyp</span>
+
+<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372930">LT
+8</span>
+
+<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372930">cluster
+type (als ein von mehreren möglichen genetischen
+Nomenklaturen)</span>
+
+<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372930">ct1734</span>
 
 ## **<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26370160">Ausbruch</span>**
 
@@ -786,24 +905,318 @@ Krankheiten) gelten ggf. schon einzelne Fälle als Ausbruch.Es gibt keine
 scharfe Grenze zum Begriff der Epidemie und auch keinen grundsätzlichen
 Unterschied, weil eine Epidemie in diesem Sinne ein großer Ausbruch
 ist<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372800">.
-</span>Sekundärausbruch: Ein weiterer Ausbruch im Umfeld eines bereits
-bekannten Ausbruchs mit ei-nem bestehenden Zusammenhang (z.B.
-zusam-menhängende Ausbrüche in einer Familie oder in einer
-Gemeinschaftseinrichtung).∏Satellitenausbruch: Kleiner Ausbruch, der im
-kausalen Zusammenhang mit einem räumlich entfernten größeren Geschehen
-steht.
+</span>
+
+  - Sekundärausbruch: Ein weiterer Ausbruch im Umfeld eines bereits
+    bekannten Ausbruchs mit einem bestehenden Zusammenhang (z.B.
+    zusammenhängende Ausbrüche in einer Familie oder in einer
+    Gemeinschaftseinrichtung).<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372800">
+    </span>
+
+  - Satellitenausbruch: Kleiner Ausbruch, der im kausalen Zusammenhang
+    mit einem räumlich entfernten größeren Geschehen steht.
+
+## Ausbruchsmanagement
+
+Organisation und Leitung aller im Zusammenhang mit einem
+Infektionsgeschehen erforderlichen antiepidemischen und präventiven
+Maßnahmen durch die
+zuständige<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372920">n</span>
+Gesundheitsbehörde<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372920">n</span>
+(je nach der Situation liegt die Zuständigkeit auf kommunaler Ebene,
+Landesebene oder Bundesebene). Die Untersuchung und die Maßnahmen zur
+Beherrschung des Ausbruchs können nach allgemeinen Grundsätzen des
+Managements als ein Aktionszyklus realisiert werden:
+
+  - Erkennen (identification): Liegt ein Ausbruch vor? Ermittlungen,
+    Untersuchungen; Aufklärung, Ausbruchsuntersuchung, ggf.
+    Tätigwerden<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372800">
+    </span>einer infektionsepidemiologischen Einsatzgruppe, Bestimmen
+    des Problems
+
+  - Bewerten (assessment): Analysieren und Werten der gewonnenen Daten
+    und erhobenen Befunde, Epidemiografie; Ableiten von
+    Schlussfolgerungen, Festlegen der erforderlichen Maßnahmen
+
+  - Handeln (implementation): Durchführen der Maßnahmen, antiepidemische
+    Maßnahmen, präventive Maßnahmen
+
+  - Evaluieren (evaluation): Auswerten, Kontrolle der Wirksamkeit und
+    Effektivität der eingeleiteten
+    Maßnahmen<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372940">.
+    </span>Zum vollständigen Ausbruchsmanagement gehören auch die
+    Auswertung abgelaufener Geschehen und die Vorbereitung auf derartige
+    Gefahrensituationen (disaster preparedness).
+
+## Ausscheider
+
+Eine Person, die mit einem bestimmten Infektionserreger infiziert, aber
+nicht erkrankt ist, und die diesen Erreger z.B. über den
+Magen-Darm-Trakt oder den oberen Respirationstrakt nach außen abgibt
+(»ausscheidet«), sodass sie bei normalen sozialen Kontakten oder durch
+praktisch mögliche Übertragungsvorgänge zu einer Infektionsquelle für
+andere bzw. für die Allgemeinheit werden kann. Die durch Ausscheider
+bestehende Infektionsgefahr für andere begründet Maßnahmen des
+Infektionsschutzes.<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372950">
+</span>IfSG-Definition (§2):
+<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372950">"</span>Eine
+Person, die Krankheitserreger ausscheidet und dadurch eine
+Ansteckungsquelle für die Allgemeinheit sein kann, ohne krank oder
+krankheitsverdächtig zu
+sein.<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372950">"</span>
+
+## Basisreproduktionszahl (R0)
+
+Die mittlere Zahl der Sekundärfälle, die ein Infizierter in der Periode
+seiner Ansteckungsfähigkeit in einer gegebenen nichtimmunen Population
+erzeugt. R0 ist eine wichtige Maßzahl i.R. der mathematischen
+Epidemiologie bei der Modellierung der Ausbreitung von
+Infektionskrankheiten. Sie hilft z.B., die mögliche Ausbreitung bei
+Beginn einer Epidemie einzuschätzen oder zu bestimmen, welcher Anteil
+einer Bevölkerung immun sein muss, um eine Epidemie zu
+verhindern.
+
+|           |                                                                                   |
+| --------- | --------------------------------------------------------------------------------- |
+| Krankheit | R0-Wert                                                                           |
+| Masern    | Medianer R0-Wert 15,7 (3,7 bis 203,3)<span class="citation">(Guerra, 2017)</span> |
+|           |                                                                                   |
+|           |                                                                                   |
+|           |                                                                                   |
+|           |                                                                                   |
+|           |                                                                                   |
+
+## 
+
+## Befallsrate<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372820"> </span>(engl.: attack rate, case rate)
+
+Erkrankungsrate, ein Häufigkeitsmaß im Kontext der
+Inzidenz:<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372920">
+d</span>er Zeitraum wird durch bestimmte Umstände definiert (z.B. Dauer
+einer Epidemie). Die Aussagekraft kann durch eine weitere Spezifizierung
+erhöht
+werden.<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372820">
+</span>Sekundäre Befallsrate (secondary attack rate): Ermöglicht
+Aussagen zur Ansteckungskraft eines Erregers und ggf. zur Wirksamkeit
+eingeleiteter
+Gegenmaßnahmen.<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372950">
+</span>Befragung(i.R. der Aufklärung eines
+Infektionsgeschehens)<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372820">
+</span>(engl.: exploration, interview,
+inquiry)<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372950">
+</span>Systematisches Gespräch mit Erkrankten zur Erhärtung einer
+klinischen Verdachtsdiagnose oder mit Personen im Umfeld zur Ermittlung
+der Infektionsquelle oder eines Gefährdungspotenzials; wichtig ist eine
+standardisierte Dokumentation der Ergebnisse auf Fragebögen oder Listen.
+Vgl. Epidemiologische
+Anamnese<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372820">.
+</span>Explorative Befragungen in verschiedene Richtungen sollen bei
+Ausbrüchen zunächst die möglichen Ursachen eingrenzen und das Generieren
+von Hypothesen
+ermöglichen.<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372830">
+</span>Exponierte Empfängliche einer Gruppe, die in einem bestimmten
+Zeitraum
+erkrankten<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372950">.
+</span>Exponierte Empfängliche in dieser
+Gruppe<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372950">,</span>
+insgesamt<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372820">
+</span>Erkrankte unter den Kontaktfällen eines Krankheitsfalles in der
+Inkubationszeit<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372950">
+sowie</span><span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372820">
+</span>Gesamtzahl der Kontaktfälle (Exponierten) in diesem
+Zeitraum<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372820">.</span>
+
+## Beobachtung<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372860"> </span>(i.S. des IfSG)(engl.: observation)
+
+Gesundheitskontrolle; behördlich angeordnete Schutzmaßnahme (IfSG §29),
+die für ansteckungsverdächtige Personen (u.U. auch für Kranke mit
+unklarer Diagnose) zeitweilig
+bestimmte<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372950">
+</span>Verhaltensvorschriften, Untersuchungs- und Auskunftspflichten
+vorsieht, um der potenziellen Weiterverbreitung einer Infektion
+vorzubeugen.<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372830">
+</span>Die Bewegungsfreiheit wird nicht eingeschränkt, allerdings ist
+ein Wechsel des gewöhnlichen Aufenthalts, der Besuch einer
+Gemeinschaftseinrichtung oder eine Tätigkeit im Verkehr mit
+Lebensmitteln der anordnenden Behörde gegenüber anzuzeigen. Eine
+Beobachtung wird nur in einer zu klärenden bzw. zu kontrollierenden
+Situation angeordnet; bei Erkrankten mit bestätigter Diagnose werden
+ggf. andere Schutzmaßnahmen
+festgelegt<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372830">.</span>
 
 ## Cluster
 
-<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371610">E</span>ine
-Häufung von Fällen,ohne dass dabei ein Vergleich mit der endemischen
-Infektionsrate (Baseline) gemacht wird. Der Begriff Cluster wird auch
-für scheinbare räumliche und zeitliche Häufungen benutzt, die sich aber
-als innerhalb der Baseline-Raten liegend
-herausstellen.<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26370160">"</span>
-<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26370160">
-(frei nach Ammon et al.
-2001)</span>
+Häufung; kleine Gruppe einzelner unerwarteter bzw. ungewöhnlicher
+Erkrankungsfälle in einem räumlichen oder zeitlichen Zusammenhang ohne
+bestätigte gemeinsame Ursache. Ein Cluster einer Infektionskrankheit
+bedarf der näheren Untersuchung, speziell bei Krankheiten von besonderer
+Bedeutung. Eine Häufung von Fällen in einem epidemischen Zusammenhang
+wäre ein
+Ausbruch.
+
+## Contact tracing<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372930"> (Kontaktermittlung)</span>
+
+Nachverfolgen von Kontaktpersonen, aktives Ermitteln von Personen, die
+Kontakt zu einem Erkrankten (oder zu einem vermutlich infektiösen
+Verdachtsfall) hatten und infiziert sein könnten, im Rahmen der
+Umgebungsuntersuchung als Voraussetzung für weitere Maßnahmen, die ggf.
+im Rahmen des Kontaktmanagements erforderlich
+sind.<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372950">
+</span>Contact tracing ist bei schwer verlaufenden oder
+gemeingefährlichen Krankheiten (z.B. Tuberkulose) von besonderer
+Bedeutung. Auch bei anderen Infektionen (z.B. STI) kann ein konsequentes
+contact tracing unter bestimmten Voraussetzungen (Einverständnis
+beteiligter Personen) als Maßnahme des Infektionsschutzes sinnvoll sein.
+
+## Endemie
+
+Ständiges (zeitlich unbegrenztes) Vorkommen einer Krankheit oder eines
+Erregers in einem
+b<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372840">e</span>stimmten
+Gebiet oder einer bestimmten Bevölkerung. Innerhalb der Bevölkerung in
+einem gewissen Gebiet haben alle Personen ein ähnliches Risiko an der
+Krankheit zu
+erkranken.<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372940">
+</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372930">Masern
+sind in Deutschland noch endemisch, Polio wurden eradiziert und ist in
+Deutschland nicht mehr endemisch.</span>
+
+## Epidemie
+
+Erkrankungswelle, epidemisches
+Geschehen<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372940">;</span>
+<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372850">im
+Verglei</span>ch zur Ausgangssituation treten bestimmte
+Erkrankungsfäl<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372940">l</span>e
+mit einheitlicher Ursache vermehrt auf, der Prozess ist zeitlich und
+räumlich
+begrenzt.
+
+## Epidemiekurve<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372950"> </span>(engl.: epidemic curve)
+
+Grafische Darstellung des Ablaufs einer Epidemie auf einer Zeitachse
+(z.B. als Liniendiagramm oder Histogramm), vgl. Epidemieverlauf, Arten
+und
+Formen<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372850">
+</span>Amplituden und Rhythmen der dargestellten Erkrankungswellen
+ermöglichen oft Aussagen zur Art, Ursache und Dynamik des Geschehens.
+Bei Kontakterkrankungen wird der Kurvenverlauf durch die Inkubationszeit
+geprägt (meist sind mehrere »Generationen« von Erkrankungsfällen zu
+erkennen).
+
+## Ermittlung (im Sinn des IfSG)(engl.: investigation, inquiry)
+
+Aktives zielgerichtetes Handeln (Erkunden, Untersuchen, Befragen) aus
+gegebener Veranlassung, um die Art einer aufgetretenen
+Infektion/Erkrankung und deren Begleitumstände (Ursachen,
+Ansteckungsquelle, begünstigende Faktoren, Ausbreitung) zu erfassen.
+Ermittlung ist eine Aufgabe des Gesundheitsamtes (§§25, 26 IfSG).
+
+## Falldefinition
+
+Die Falldefinition ist ein Instrument zur Einordnung von Fällen, die zu
+dem
+untersuchten<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372930">
+</span>Ausbruch gehören. Zu Beginn einer Ausbruchsuntersuchung ist es
+meist zweckmäßig, eineweitgefasste Falldefinition zu wählen, d. h. eine
+Falldefinition mit hoher Sensitivität, ummöglichst alle Fälle zu
+erfassen. Je mehr Informationen im Lauf der Untersuchungzusammengetragen
+werden, desto genauer kann die Falldefinition gefasst
+werden<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372930">
+</span>(Erhöhung der Spezifität). Eine Falldefinition soll als Kriterien
+charakteristische
+klinische<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372930">
+</span>Symptome oder Labor- oder andere Untersuchungsbefunde oder beides
+beinhalten, sowieAngaben zum Zeitraum, der erfasst werden soll, zu dem
+Ort oder den Orten, an denen sichdie Fälle aufgehalten haben und zum
+betroffenen Personenkreis enthalten. Je
+nach<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372930">
+</span>Situation kann es erforderlich sein, in gesicherte,
+wahrscheinliche oder Verdachtsfälle
+zu<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372930">
+</span>unterscheiden.
+
+## Fallsuche<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372920"> </span>(engl.: case finding)
+
+Gezielte Untersuchungen und Ermittlungen, um im Umfeld eines
+Infektionsherdes oder im
+Rah<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372920">m</span>en
+eines epidemischen Geschehens bisher unerkannte Erkrankungsfälle oder
+besonders gefährdete Personen zu erfassen, zu betreuen oder zu
+schützen<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372920">.
+</span>Aktive Fallsuche (active case finding): Im Umfeld bestimmter
+Krankheitsfälle (z.B. Tuberkulose) und in Gefahrensituationen muss ggf.
+das übliche Vorgehen gezielt und maximal erweitert werden, um möglichst
+alle Infizierten oder besonders Gefährdeten aktiv
+aufzuspüren.
+
+## <span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372920">I</span>ndexfall<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372950"> </span>(engl.: index case)
+
+Der erste festgestellte (diagnostizierte) Erkrankungsfall in einer Serie
+von
+Kontakterkrankungen.
+
+## Infektkette<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372950"> </span>(engl.: chain of transmission)
+
+Transmissionskette; Aufeinanderfolge der Übertragungsvorgänge zwischen
+Menschen und/oder
+Tieren<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372920">.</span>
+
+## Keimträger, asymptomatische<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372950"> </span>(engl.: asymptomatic carrier)
+
+Personen ohne Krankheitszeichen, die einen Infektionserreger in oder an
+sich tragen. Gründe dafür können eine asymptomatische Infektion, die
+Inkubation oder Rekonvaleszenz einer Infektionskrankheit oder eine
+Besiedlung (mikrobielle Kolonisation) sein. Keimträger können als
+potenzielle Infektionsquellen eine wichtige Rolle spielen. Je nach dem
+speziellen Erreger und den äußeren Umständen können verschiedene
+Schutzmaßnahmen für die betroffene Person und/oder ihre Umgebung
+erforderlich sein.Personen, die Erreger nicht nur beherbergen, sondern
+a<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372930">u</span>ch
+so nach außen ausscheiden, dass sie eine Infektionsquelle für die
+Allgemeinheit darstellen, werden (im Deutschen) als Ausscheider
+(Keimausscheider, excreter) begrifflich abgegrenzt, für sie gelten
+spezielle Maßnahmen des Infektionsschutzes.Beispiele für Keimträger:
+Personen, die mit Erregern der Diphtherie, des Typhus abdominalis oder
+des AIDS infiziert sind bzw. mit Methicillin-resistentem Staphylococcus
+areus (MRSA) besiedelt
+sind.
+
+## Kontaktmanagement<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372950"> </span>(engl.: management of contacts)
+
+Organisatorische Maßnahmen, die sich auf eine Person beziehen, die
+Kontakt zu einer bestimmten infektiösen Erkrankung hatte (Kontaktperson)
+und die zu deren Schutz und zum Schutz ihrer Umgebung durchgeführt
+werden. Kontaktpersonen müssen zunächst i.R. einer
+<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372930">
+</span>Umgebungsuntersuchung ermittelt werden (Nachverfolgung,
+Fallsuche, contact tracing).Für jede ermittelte Kontaktperson wird eine
+evtl. bestehende Gefährdung durch die Anamnese bestimmt; dabei werden
+u.a. die Infektiosität des Indexfalles, Art und Dauer des Kontakts, die
+Disposition der Kontaktperson und die Be-dingungen des Umfeldes
+bewertet. Danach werden ggf. spezielle Untersuchungen, eine Immun- oder
+Chemoprophylaxe, Beobachtung (§29 IfSG), Absonderungsmaßnahmen (§§30–31
+IfSG u.a.) und Verhaltensvorschriften
+festgelegt.
+
+## Kontaktperson<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372950"> </span>(engl.: contact person)
+
+Person im Umfeld eines Infizierten/Erkrankten, bei der nach einem die
+Mög-lichkeit
+einer<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372930">
+</span>Kontaktinfektion (Ansteckungsverdacht i.S. des IfSG) besteht und
+die daher ggf. einer weiteren Beobachtung und evtl. weiterer
+Schutzmaßnahmen bedarf, s. Kontaktmanagement,Umgebungsuntersuchung,
+Contact
+tracing<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372930">.
+</span>Eine enge Kontaktperson (z.T. krankheitsspezifisch definiert,
+z.B. bei der Tuberkulose) bedarf ggf. besonderer
+Schutzmaßnahmen.<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372930">
+</span>Kontaktpersonen I., II. und III. Grades werden ggf. bei
+hochkontagiösen Krankheiten auf der Grundlage des Kontaktes zueinander
+unterschieden. Kontaktpersonen I. Grades hatten unmittelbaren Kontakt zu
+einem Erkrankungsfall, II. Grades zu denen I.
+Grades.
 
 ## **Kranker**
 
@@ -818,119 +1231,136 @@ ist</span><span class="approved-insertion" data-user="47" data-username="Wagner-
 
 <span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371300">E</span>ine
 Person, bei der Symptome bestehen, welche das Vorliegen einer bestimmten
-übertragbarenKrankheit vermuten
+übertragbaren<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372930">
+</span>Krankheit vermuten
 lassen<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26370210">.</span>
 
-## **Ausscheider**
+## Linelist (Epidemieliste) (engl.: linelist, epidemic list)
 
-<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371300">Eine</span>
-Person, die Krankheitserreger ausscheidet und dadurch eine
-Ansteckungsquelle für die Allgemeinheitsein kann, ohne krank oder
-krankheitsverdächtig zu
-sein
+Urliste, chronologische Dokumentation der einer Epidemie zugeordneten
+Fälle. Im Rahmen der Epidemiografie werden außerdem Auflistungen der
+Fälle nach verschiedenen Merkmalen (z.B. personenspezifisch,
+krankheitsspezifisch, Expositionsfaktoren)
+geführt.<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372970">
+</span>In der Linelist, z.B. eine Excel-Tabelle, wird für jeden
+Erkrankungsfall eine Zeile in der Tabelle angelegt, in der alle
+vorliegenden Informationen zu dem Fall dokumentiert werden.
+Informationen, die erhoben werden, umfassen neben einer
+Identifikationsnummer für jeden Fall demografische (Name, Wohnort,
+Kontaktdaten, Alter, Geschlecht) und klinische Angaben (Symptomatik,
+Erkrankungsbeginn, Hospitalisierung, Diagnostik).
 
-## **Ansteckungsverdächtiger**
+Das primäre Ziel einer solchen Auflistung ist es, Gemeinsamkeiten
+zwischen den betroffenen
+<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372940">Fällen
+</span>zu<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372940">
+</span>erkennen, um beschreiben zu können, in welchem Zeitraum der
+Ausbruch stattgefunden
+hat<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372940">
+</span>(oder noch stattfindet), welche
+<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372940">G</span>ruppe
+betroffen war und örtliche Zusammenhänge zu erfassen. Die gesammelten
+Informationen sollten ausreichen, eine erste, vorläufige Falldefinition
+für
+<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372950">einen
+</span>Ausbruch
+<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372950">mit
+Angaben zu Zeit, Ort und Person </span>zu
+erstellen.
 
-<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371300">E</span>ine
-Person, von der anzunehmen ist, dass sie Krankheitserreger aufgenommen
-hat, ohne krank,krankheitsverdächtig oder Ausscheider zu
-<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26370180">sei</span><span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26370200">n</span>
+I<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372950">m</span>
+Rahmen von Ausbruchsuntersuchungen kann die Liste erweitert
+werden<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372950">.
+Insbesondere bei der Durchführung von analytischen Studien
+(Fall-Kontroll Studien, Kohortenstudien) werden dann Nicht-Fälle im
+gleichen Datenraster mit den gleichen Parametern (Zeit, Ort, Person,
+Exposition) erfasst.</span>
+<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372950">Möglicherweise
+ändert sich durch zunehmende Charakterisierung des Ausbruchsstamms auch
+die Falldefinition und vormalige Fälle werden nicht mehr als Fälle
+gezählt, obwohl sie formal noch auf der Liste erscheinen. </span>
 
-## Ausbruchsstamm<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371300"> </span>(engl.: outbreak strain)
+Für lebensmittelbedingte Ausbrüche bietet das RKI ein Excel-basiertes
+Linelist-Werkzeug an, in dem zusätzlich zu den genannten Angaben auch
+Informationen zu vor Erkrankungsbeginn verzehrten Lebensmitteln erfasst
+werden können. Darüber hinaus ermöglicht das
+Line<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372970">l</span>ist
+Werkzeug auch einige Datenauswertung
+\[[LINELIST-Werkzeug](%20https://www.rki.de/DE/Content/InfAZ/L/Lebensmittel/Linelist-Tool/Linelist_Werkzeuge_Tab_gesamt.html "LINELIST-Werkzeug")\].
+Eine kurze Beschreibung des Werkzeugs einschließlich des
+dahinterstehenden strategischen Konzepts für die Untersuchung
+lebensmittelbedingter Ausbrüche wurde auf Englisch in
+[Eurosurveillance](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES2014.19.8.20714 "Externer Link Reducing the barriers against analytical epidemiological studies in investigations of local foodborne disease outbreaks in Germany – a starter kit for local health authorities. Eurosurveillance, 27 February 2014 (Öffnet neues Fenster)")
+veröffentlicht. Es steht unter einer Creative-Commons-Lizenz auf Deutsch
+zum Herunterladen bereit.
 
-Der ein bestimmtes Infektionsgeschehen verursachende Erreger mit seinen
-durch Feintypisierung definierten Eigenschaften (auch:
-Epidemiestamm)<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371300">
-</span>.<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26370210"><span class="citation">(Kiehl,
-2015)</span></span>
+Beispiellinelists für nosokomiale Ausbrüche können beim RKI angefordert
+werden.
 
-## <span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371290">Basisreproduktionszahl </span>
+## Pandemie (engl.: pandemic)
 
-<span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371290">Die
-Basisreproduktionszahl</span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371280">
-ist ein Maß für die Ausbreitungsgeschwindigkeit einer übertragbaren
-Erkrankung</span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371300">
-innerhalb einer empfänglichen
-Bevölkerung</span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371280">.
-</span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371310"><span class="citation">(Delamater,
-2019)</span>
-</span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371290">Er
-wird auch R0 oder
-</span>Grundvermehrungsrate<span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371290">
-genannt.
-</span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371280">Er
-gibt an wieviele
-</span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371290">empfängliche
-</span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371280">Personen
-eine Erreger-ausscheidende Person im Durchschnitt ansteckt.
-</span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371290">Empf</span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371300">änglich
-heißt, dass diese Person sich anstecken kann. Der R0-Wert ist abhängig
-vom Kontext,
-</span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371310">zum
-Beispiel</span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371300">
-vom
-Bevölkerungsverhalten</span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371310">,
-von der Bevölkerungsdichte, und von
-Umweltfaktoren</span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371300">.
-</span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371280">Ein
-R0-Wert größer als 1 bedeutet, dass der Erreger sich ausbreiten wird.
-Ein R0-Wert kleiner als 1 bedeutet, dass der Erreger
-</span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371290">sich
-nicht fortgesetzt ausbreitet. Die Basisreproduktionszahl wird
-</span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371300">
-im Gegensatz zu Effektiven Reproduktionszahl nicht durch Impfen
-beeinflusst.
-</span>
+Eine neu, aber zeitlich begrenzt in Erscheinung tretende, weltweite
+starke Ausbreitung einer Infektionskrankheit mit hohen Erkrankungszahlen
+und i.d.R. auch mit schweren Krankheitsverläufen. Bei einer
+fortgesetzten Mensch-zu-Mensch-Übertragung (z.B. durch ein neuartiges
+Influenzavirus) kann die WHO i.R. der Internationalen
+Gesundheitsvorschriften eine Pandemie "deklarieren". Unabhängig von der
+Deklaration einer Pandemie kann die WHO bereits vor dem Beginn, z.B.
+beim Auftreten eines neuartigen humanpathogenen Erregers oder einer aus
+gesundheitlicher Sicht sich zuspitzenden Gefahrensituation, eine
+"Gesundheitliche Notlage von internationaler Tragweite" (GNIT)
+deklarieren.
 
-|                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371290">Krankheit</span> | <span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371290">R0-Wert</span>                                                                                                                                                                                                                                                                                                      |
-| <span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371290">Masern</span>    | <span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371320">Medianer R0-Wert </span> 15<span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371320">,</span>7<span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371320"> (3,7 bis 203,3)<span class="citation">(Guerra, 2017)</span></span> |
-|                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                           |
+## Primärfall<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372950"> </span>(engl.: primary case)
 
-## <span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371290">Effektive Reproduktionszahl</span>
+Der erste Erkrankungsfall, der u.U. eine Serie von Erkrankungen
+(Folgeinfektionen) ausgelöst hat (nicht zu verwechseln mit dem ersten
+festgestellten Fall, dem Indexfall). In der nächsten Generation sind
+alle Fälle mit direktem Kontakt zum Primärfall Sekundärfälle, deren
+Kontakterkrankungen sind
+Tertiärfälle.
 
-Der R-Wert
-<span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371300">ist
-ein Maß für die tatsächliche Ausbreitung eines Erregers. Er
-</span>ist<span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371300">
-im Gegensatz zum R0-Wert</span> abhängig vom Kontext. Das bedeutet in
-unterschiedlichen Settings gibt es unterschiedliche R-Werte.
-<span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371300">Durch
-Impfen und andere Maßnahmen kann der R-Wert gesenkt
-werden.</span>
+## Quarantäne<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372950"> </span>(engl.: quarantine)
 
-## <span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371280">Endemie</span>
+Im ursprünglichen und eigentlichen Sinne ist die Quarantäne eine
+zeitweilige Absonderung gesunder Personen, die verdächtig sind, von
+einer kontagiösen Krankheit angesteckt zu sein. Im heutigen
+Sprachgebrauch wird Quarantäne auf spezielle Krankheiten bezogen, i.d.R.
+hochkontagiöse und lebensbedrohliche sog. »quarantäne-pflichtige«
+Krankheiten.<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372940">
+</span>Nach dem IfSG (§30) handelt es sich um eine behördlich
+angeordnete Schutzmaßnahme im Komplex der Absonderungsmaßnahmen. Sie
+gilt nach dem Wortlaut des IfSG für Personen, die an speziellen
+Krankheiten erkrankt sind (im IfSG als obligatorische Maßnahme für
+Lungenpest und übertragbare Hämorrhagische Fieber festgelegt) und
+Ansteckungsverdächtige und besteht in der zeitweiligen Absonderung unter
+Bedingungen, die eine Weiterverbreitung der Krankheit mit höchster
+Sicherheit verhindern. Die Absonderung Ansteckungsverdächtiger
+(Personen, die Kontakt zu speziellen Krankheiten hatten) ist Quarantäne
+im engeren
+Sinn.
 
-<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371350">Eine
-Infektionskrankheit kommt regelmäßig in </span>einer
-<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371350">Bevölkerung
-vor und</span> die Krankheitserreger
-<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371350">können
-</span>nicht restlos ausgemerzt werden.
-<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371350">Innerhalb
-der Bevölkerung </span> in einem gewissen Gebiet haben alle
-Personen<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371350">
-eine ähnliches Risiko an der Krankheit zu
-</span>erkrank<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371350">en.</span>
+## Tätigkeitsverbot<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372950"> </span>(i.S. des IfSG)(engl.: ban from certain occupational activities)
 
-## Epidemie
+Personen, die in einer Gemeinschaftseinrichtung, medizinischen
+Einrichtungen oder im Verkehr mit Lebensmitteln beruflich tätig sind,
+ist das Ausüben dieser Tätigkeit zeitweilig untersagt, wenn sie an
+bestimmten übertragbaren
+Krankhe<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372950">i</span>ten
+erkrankt sind oder sich in der Inkubationszeit befinden (§§31, 34, 42
+IfSG). Die Zeitdauer ergibt sich aus der Dauer der Ansteckungsfähigkeit.
+Es handelt sich um eine Maßnahme des Infektions-schutzes im Komplex der
+Absonderungsmaßnahmen.
 
-Eine Krankheit kommt gehäuft vor, wird schnell weiterverbreitet, ist
-aber regional begrenzt
-ist.
+## Wiederzulassung<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372950"> </span>(als Maßnahme des Infektionsschutzes)
 
-## <span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371280">Pandemie</span>
-
-<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371350">E</span>ine
-Krankheit
-<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371350">verbreitet
-sich weltweit aus, </span>ganze Landstriche, Länder und Kontinente
-<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371350">übergreifend.</span>
+Wieder erlaubter Besuch einer Gemeinschaftseinrichtung (Schule,
+Kindereinrichtung) bzw. wieder erlaubte Tätigkeit in einer
+Gemeinschaft<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372950">s</span>einrichtung
+oder einem Lebensmittelbetrieb im Anschluss an eine zeitweilige
+Absonderung (Betretungs-, Benutzungs- und Teilnahmeverbot oder das
+Verbot einer Tätigkeit gemäß IfSG §§31, 34) wegen einer bestehenden
+Ansteckungsgefahr, nachdem diese nicht mehr besteht.
 
 # 
 

@@ -39,14 +39,16 @@ verhindern</span><span class="approved-insertion" data-user="20" data-username="
 Ausbruchsuntersuchung verstehen wir
 </span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371540">"die</span>
 <span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371530">zielgerichtete</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371540">
-infektions-</span>epidemiologischen
+infektions-</span>epidemiologische
 <span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371530">U</span>ntersuchung<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371530">
 die die </span>Bedrohung für die Bevölkerung
 ermittel<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371550">t</span>,
-die Infektionsquelle identifizieren und
-<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371530">M</span>aßnahmen
-<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371530">die</span>
-versuchen<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371530">
+die Infektionsquelle
+identifizier<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372960">t</span>
+und
+<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371530">M</span>aßnahmen<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372960">
+ergreift,
+um</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371530">
 </span>Folgefälle und ähnliche Ausbrüche in der Zukunft zu
 verhindern.<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371530">
 </span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371540"><span class="citation">(“Ausbruchsuntersuchungen,”
@@ -54,7 +56,7 @@ verhindern.<span class="approved-insertion" data-user="20" data-username="ptinne
 
 # <span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26371270">Gründe für Ausbruchsuntersuchung</span>
 
-Die Lachsschaumspeise
+**Die Lachsschaumspeise**
 
 Im Monty Python Film "Der Sinn des Lebens" gibt es eine Szene, in der
 Freunde beim gemeinsamen Abendessen von "Mr. Death", dem Tod, besucht
@@ -71,11 +73,10 @@ stoppen?" sind die Leitfragen für die Durchführung von
 Ausbruchsuntersuchungen. Direkt daraus leitet sich dann oft die
 praktische Intervention ab: beispielsweise Lebensmittelrückruf, die
 Durchführung von Impfungen und Chemoprophylaxe und Barrieremaßnahmen,
-Identifizierung von Schulungsbedarf bei \#Risikomaßnahmen (\#im Sinne
-von Krankenhausprozeduren\#bitte besseres Wort) oder Erkennen von
-Hygienebrüchen (\#?HACCP) (\#hier Verweis auf Kapitel Intervention\#).
-Man möchte die Quelle des Ausbruchs finden und für die Zukunft
-beseitigen, damit nicht noch mehr Menschen krank werden.
+Identifizierung von Schulungsbedarf oder Erkennen von Hygienebrüchen
+(\#?HACCP) (\#hier Verweis auf Kapitel Intervention\#). Man möchte die
+Quelle des Ausbruchs finden und für die Zukunft beseitigen, damit nicht
+noch mehr Menschen krank werden.
 
 Manchmal findet man auch einen bisher unbekannten Erreger, wie z.B.
 Legionellen, HIV, Ebola oder zuletzt SARS und SARS-CoV II. Ohne
@@ -88,10 +89,13 @@ Druck durch die Medien oder positiver formuliert: das Eingehen auf die
 Sorgen und Ängste der lokalen Bevölkerung. Die Entscheidung, welcher der
 über 100 Norovirenausbrüche pro Saison im Kreis jetzt untersucht wird,
 wird oft durch die Berichterstattung der Zeitungen oder Onlinemedien
-bestimmt. Ein Ausbruch, über den in einer regionealen Zeitung mehrfach
-berichtet wird, erzeugt so viel Druck bei den politisch Verantwortlichen
-im Kreis und Landesministerium, dass die zuständigen Gesundheitsbehörden
-nicht um eine strukturierte Untersuchung herumkommen.
+bestimmt. Ein Ausbruch, über den in einer regionalen Zeitung mehrfach
+berichtet wird,
+<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372960">kann</span>
+so viel Druck bei den politisch Verantwortlichen im Kreis und
+Landesministerium<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372960">
+erzeugen</span>, dass die zuständigen Gesundheitsbehörden nicht um eine
+strukturierte Untersuchung herumkommen.
 
 Der einzige Top-Experte im Amt nutzt nichts, wenn er im Urlaub ist. Die
 Veteranin im Gesundheitsamt hat hoffentlich vor der Altersteilzeit ihr
@@ -100,9 +104,6 @@ anfangen?<span class="approved-insertion" data-user="52" data-username="Burckhar
 </span>Eine letzte sehr wichtige Motivation für die Durchführung von
 Ausbruchsuntersuchungen ist das Lehren und Lernen von praktischer
 Ausbruchsepidemiologie.
-<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26371510">Dabei
-möchte Sie dieses Buch
-unterstützen.</span>
 
 # <span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26371270">Bausteine </span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371490">der </span><span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26371270">Ausbruchsuntersuchung</span>
 
@@ -156,17 +157,15 @@ FEM-Wiki</span>](%20%20https://wiki.ecdc.europa.eu/fem/Pages/Outbreak%20investig
 
 ## **Baustein: Ausbruch bestätigen**
 
-<span class="insertion user-49" data-user="49" data-username="WalterJ" data-date="26371570">Zur
+<span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26371570">Zur
 Identifizierung von
-Cluster</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372690">n</span><span class="insertion user-49" data-user="49" data-username="WalterJ" data-date="26371570">
-(und Ausbrüchen) dient der
-</span><span class="deletion user-49" data-user="49" data-username="WalterJ" data-date="26371570">Der</span>
-Vergleich mit einer
-<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26370170">Hintergrundrate</span><span class="insertion user-49" data-user="49" data-username="WalterJ" data-date="26371570">.
+Cluster</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372690">n</span><span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26371570">
+(und Ausbrüchen) dient der </span> Vergleich mit einer
+<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26370170">Hintergrundrate</span><span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26371570">.
 Dieser</span><span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26370170">
 </span>ist relativ einfach herzustellen, wenn Surveillance-Daten zur
 Häufigkeit von bestimmten Infektionen bereits vorhanden sind.
-<span class="deletion user-49" data-user="49" data-username="WalterJ" data-date="26371570">Diese</span><span class="insertion user-49" data-user="49" data-username="WalterJ" data-date="26371570">Solche</span>
+<span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26371570">Solche</span>
 Daten können auch aus Literaturangaben stammen, z. B. die zu erwartende
 Häufigkeit von MRSA-Nachweisen in den letzen Jahren in einer
 neonatologischen Klinik. Allerdings muss verifiziert werden, welche
@@ -238,9 +237,9 @@ Informationen gesammelt werden: </span>
     Fällen (IfSGKoordinierungs-VwV),”
     2013)</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372700">.</span>
 
-### *Ermittlungen in einem Ausbruch*
+### Ermittlungen in einem Ausbruch
 
-*<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26371670">Der
+<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26371670">Der
 gesamte</span>
 Ausbruchs<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26371660">verlauf</span>
 <span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26371670">einschließlich
@@ -255,49 +254,49 @@ werden.</span><span class="approved-insertion" data-user="54" data-username="Bud
 <span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26371660">sollte
 </span>ein Ermittlungsbogen gemäß § 25 IfSG mit folgenden Daten
 <span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26371660">ausgefüllt
-werden</span>:*
+werden</span>:
 
-  - *Vor- und Nachname,*
+  - Vor- und Nachname,
 
-  - *Geburtsdatum,*
+  - Geburtsdatum,
 
-  - *Adresse,*
+  - Adresse,
 
-  - *Telefonnummer der betroffenen Person,*
+  - Telefonnummer der betroffenen Person,
 
-  - *seine berufliche Tätigkeit (z. B.: Lebenmittelberuf, Mitarbeiter
-    einer Gemeinschaftseinrichtung),*
+  - seine berufliche Tätigkeit (z. B.: Lebenmittelberuf, Mitarbeiter
+    einer Gemeinschaftseinrichtung),
 
 <!-- end list -->
 
-  - *dem Erkrankungsbeginn,*
+  - dem Erkrankungsbeginn,
 
-  - *die erste Arztkonsultation,*
+  - die erste Arztkonsultation,
 
-  - *die Symptomatik,*
+  - die Symptomatik,
 
-  - *den Krankenhausaufenthalt (von/ bis) und*
+  - den Krankenhausaufenthalt (von/ bis) und
 
-  - *die Infektionsquelle - sollte diese bekannt
-sein.*
+  - die Infektionsquelle - sollte diese bekannt
+sein.
 
-### *Kontaktpersonen*
+### Kontaktpersonen
 
-*<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26371660">während
+<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26371660">während
 eines Ausbruchs kann es notwendig sein, Ko</span>ntaktpersonen
 <span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26371660">zu
 ermitteln</span>. Hierbei sind folgende personenbezogene Daten durch den
-Mitarbeiter des Gesundheitsamtes zu ermitteln:*
+Mitarbeiter des Gesundheitsamtes zu ermitteln:
 
-  - *der Vor- und Nachname,*
+  - der Vor- und Nachname,
 
-  - *das Geburtsdatum,*
+  - das Geburtsdatum,
 
-  - *die Adresse und*
+  - die Adresse und
 
-  - *die
+  - die
     Telefonnummer<span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26372790">,
-    E-Mail</span>.*
+    E-Mail</span>.
 
 ## <span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371450">Baustein: </span>Teambildung und -strukturierung
 
@@ -332,108 +331,33 @@ in das Team einzubinden und von ihrer
 Verantwortung</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372700">
 zu überzeugen. Bei </span>nosokomialen Ausbrüchen ist beispielsweise
 häufig der Ärztliche Direktor verantwortlich für die Hygiene im
-Krankenhaus.<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372710">
+Krankenhaus<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372930">
+und sollte daher frühzeitig eingebunden
+werden</span>.<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372710">
 Das Ausbruchsteam besteht folglich nicht immer lediglich aus Mitglieder
 der bearbeitenden Behörden, sondern kann auch externe Akteure mit
-einbeziehen. </span>
-
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>Gastro</p></td>
-<td><p>Aufgabe</p></td>
-<td><p>Wer kann diese übernehmen</p></td>
-<td><p>Inhalt der Aufgabe</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>Annahme und Verarbeitung der Meldung</p></td>
-<td><p>-</p></td>
-<td><p>-Ermittlung: Zeit, Ort, Person, Kontakte, Infektionsquelle/Exposition, Krankenhausaufenthalt, Symptomatik, Reiseanamnese, Berufliche Tätigkeit (§33, 42)</p>
-<p>-Dokumentation Ansprechpartner</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p>Probennahme</p></td>
-<td></td>
-<td><p>-Stuhl/Urin/Rachen</p>
-<p>-Lebensmittel</p>
-<p>-Haustiere</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>Bildung Ausbruchsteam</p></td>
-<td></td>
-<td><p>-Zusammenstellung notwendiger Personen</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p>Probenverarbeitung</p></td>
-<td></td>
-<td><p>-Kontaktierung der entsprechenden Labors</p>
-<p>-Durchführung der Testungen</p>
-<p>-Implementation der Ergebnisse</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>Ressourcenbereitstellung</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p>Meldung an übergeordnete Stellen</p></td>
-<td></td>
-<td><p>-Information der lokalen Leitung</p>
-<p>-Information der übergeordneten Ämter/Institute</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>Belehrung Betroffener</p></td>
-<td></td>
-<td><p>-Aufklärung: Hygiene, Desinfektionsmaßnahmen, Übertragungswege, Prophylaxe, Weitere Maßnahmen</p>
-<p>-Aussprechen von Berufsverboten</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p>Ausübung von Absonderungsmaßnahmen</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>Information der Öffentlichkeit</p></td>
-<td></td>
-<td><p>-Informationsweiterleitung an Pressestelle</p></td>
-</tr>
-</tbody>
-</table>
-
-<span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26371530">Tabelle:
-</span>Rollen während eines
-Ausbruchs
+einbeziehen.
+</span>
 
 ### <span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371700">Dokumentation von Treffen</span>
 
 <span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371700">Um
 Absprachen und wichtige Entscheidungen zu dokumentieren ist es wichtig
 das</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372710">s</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371700">
-vo</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372700">r</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371700">
+vo</span><span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372930">n</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371700">
 relevanten Treffen Dokumentationen angefertig
-werden.</span>
+werden.</span><span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372930">
+</span>
 
 #### <span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371700"> Vorlage: Protokoll</span> T<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371700">eamt</span>reffen
 
-(Titel)<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371700">
-Treffen Team </span>Ausbruchsuntersuchung
+Titel<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372940">
+(z.B.</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371700">
+</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372940">"</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371700">Treffen
+Team
+</span>Ausbruchsuntersuchung<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372940">")</span>
 
-(Datum, Zeit und Ort)
+Datum, Zeit und Ort
 
 1\. Festlegen: Vorsitz, Protokoll, Zweck des Treffens
 
@@ -469,7 +393,9 @@ Treffen Team </span>Ausbruchsuntersuchung
 
 \- Medien
 
-\- Leistungserbringer im Gesundheitswesen (z.B. Hausärzte, A\&E etc...)
+\- Leistungserbringer im Gesundheitswesen (z.B. Hausärzte,
+<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372940">Krankenhäuser</span>
+etc...)
 
 \- Andere
 
@@ -496,10 +422,10 @@ können zu Nachweishäufungen führen, sogenannten
 Pseudoausbrüchen</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371710">.
 </span>
 
-<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371710">KASTEN</span>Beispiel:
-Blutspender werden zunehmend auch auf Hepatitis-E gescreent. Durch die
-Labormeldepflicht erhöht sich dadurch die Fallzahlen im Vergleich zu den
-Vorjahren, ohne dass ein Ausbruch
+**<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371710">KASTEN</span>**<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372940">
+</span>Beispiel: Blutspender werden zunehmend auch auf Hepatitis-E
+gescreent. Durch die Labormeldepflicht erhöht sich dadurch die
+Fallzahlen im Vergleich zu den Vorjahren, ohne dass ein Ausbruch
 vorliegt.
 
 <span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26370240">Bei
@@ -580,7 +506,10 @@ Pseudoausbruch. Dazu eigenen sich folgende
     </span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371510">Infektionssq</span><span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26370210">uelle
     oder auf dem Vektor
     meh</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26370280">r</span><span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26370210">ere
-    Erreger vorkommen
+    Erreger</span><span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372940">stämme
+    oder
+    Erregerspezies</span><span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26370210">
+    vorkommen
 (Multispeziesausbrüche).</span>
 
 ## **<span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370140">Baustein: </span>Falldefinition erstellen**
@@ -592,8 +521,8 @@ Die Falldefinition ist ein
 Instrument</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370160">,</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370180">
 anhand dessen standardisiert und nachvollziehbar entschieden werden
 kann,</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370160">
-welche Erkrankungsfälle
-</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370180">
+welche
+Erkrankungsfälle</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370180">
 </span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370160">dem
 Ausbruch zugeordnet werden und welche nicht.
 </span>
@@ -613,9 +542,10 @@ gehören, erfasst werden \[Bsp. Falldefintion siehe
 <span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371360">unten</span>:
 Kinder mit gastrointestinalen Symptomen\]. Dafür nimmt man in Kauf, dass
 vielleicht auch Erkrankungsfälle erfasst werden, bei denen sich später,
-z.B. mit entsprechender Labordiagnostik, herausstellt, dass sie doch
-nicht zum Ausbruch gehören (Falsch-Positive) \[im Bsp. Falldefintion
-siehe
+z.<span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26372810">
+</span>B. mit entsprechender Labordiagnostik, herausstellt, dass sie
+doch nicht zum Ausbruch gehören (Falsch-Positive) \[im Bsp.
+Falldefintion siehe
 <span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371360">unten</span>:
 Kinder, die aus anderen Gründen Bauchschmerzen hatten\]. Die
 Ausbruchsfalldefinition ist flexibel und kann sich im Verlauf der
@@ -680,12 +610,15 @@ Auf der Grundlage der bisher gewonnen Daten und mit Hilfe **der
 Falldefinition** müssen weitere Fälle ermittelt werden. Dies ist
 insbesondere dann wichtig, wenn es sich um schwerwiegende Erkrankungen
 handelt und wenn der Erkrankungserreger von Person zu Person übertragen
-werden kann. Insbesondere bei Ausbrüchen auf Grund von Personen zu
-Personen Übertragung in Krankenhäusern, können die
-Infektionsschutzmaßnahmen nur dann erfolgreich sein, wenn alle Fälle
-identifiziert wurden. Bei anderen Ausbrüchen, kann es ausreichend sein,
-im Verlauf der Untersuchung Erkenntnisse zu sammeln, wie groß die
-aktuelle Unterschätzung der Fallzahlen
+werden kann. Insbesondere
+<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372940">bei</span>
+Personen zu Personen
+Übertragung<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372940">en</span>
+in Krankenhäusern, können die Infektionsschutzmaßnahmen nur dann
+erfolgreich sein, wenn alle Fälle identifiziert wurden. Bei anderen
+Ausbrüchen, kann es ausreichend sein, im Verlauf der Untersuchung
+Erkenntnisse zu sammeln, wie groß die aktuelle Unterschätzung der
+Fallzahlen
 <span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371520">sein
 könnte</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26371570">
 </span>(<span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371520">eher
@@ -723,13 +656,16 @@ Entnahme, Art der Proben, untersuchendes Labor, evtl. angewandte
 Methode,
 Ergebnis)<span class="insertion user-48" data-user="48" data-username="Hoeglund-BraunH" data-date="26371580">
 </span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372710">und</span>
-Grundkrankheiten des
+Grundkrankheiten des Patienten. Grundkrankheiten des
 Patienten.
 
 ## **<span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370140">Baustein: </span>Ausbruch beschreiben**
 
 <span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370200">Zu
-Beginn einer Ausbruchsuntersuchung werden Erkrankungsfälle ausführlich
+Beginn einer Ausbruchsuntersuchung werden Erkrankungsfälle
+</span><span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372940">wenn
+möglich
+</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370200">ausführlich
 befragt, um Gemeinsamkeiten zwischen den Erkrankungsfällen zu finden
 </span>und dadurch die Ausbruchsursache zu
 ermitteln<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372720">
@@ -741,7 +677,11 @@ alternativ:
 </span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372710">"</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26370280">Shotgun-Fragebogen</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372710">"</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372800">
 (sehr
 </span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372710">ausführlicher
-Fragebogen, der zur Hypothesen-Generierung genutzt werden
+Fragebogen, der zur Hypothesen-Generierung
+</span><span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372940">bei
+Lebensmittelbedingten Ausbrüchen
+</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372710">genutzt
+werden
 kann</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372720">)</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372710">.
 </span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372800">Eine
 deutsche Version des Shotgun-Fragebogens
@@ -750,59 +690,19 @@ beim RKI angefordert
 werden</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372720">
 <span class="citation">(“Shotgun-Questionnaire,”
 2014)</span></span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372710">.</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372720">
+</span><span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372940">Bei
+nosokomialen Ausbrüchen werden normalerweise Informationen aus
+Arztbriefen Krankenakten oder der Krankenhausinformationssystem
+systematisch erhoben und für die Hypothesengenerierung genutzt.
 </span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26371240">Erhobene</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370200">
 Informationen</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26371240">
 </span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370200">über
 die
 Erkrankungsfälle</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370210">
-werden systematisch dokumentiert (sogenannte
-Line-Liste</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26370280">
-oder</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372720">
-zu
-deutsch</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26370280">
-Ur-Liste</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372720">)</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370210">.
-In der Line-Liste, z.B. eine Excel-Tabelle, wird für jeden
-Erkrankungsfall</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26370290">
-</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370210">eine
-Zeile in der Tabelle angelegt, in der alle vorliegenden Informationen zu
-dem Fall dokumentiert werden.
-Informa</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370220">ti</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370210">onen</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370220">,
-die erhoben werden, umfassen
-</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372800">neben
-einer Identifikationsnummer für jeden Fall
-</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370220">demografische
-(Name,
-</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370260">Wohnort,
-Kontaktdaten,
-</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370220">Alter,
-Geschlecht</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26370260">)</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372800">
-und
-</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370270">klinische
-</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372800">Ang</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370270">en
-(Symptomatik, Erkrankungsbeginn, Hospitalisierung,
-Diagnostik)</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26370260">.</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370220">
-</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370210">Für
-lebensmittelbedingte Ausbrüche bietet das RKI ein
-</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370270">Excel-basiertes
-</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370210">Linelist-Werkzeug
-an, das über die Erfassung der Informationen hinaus auch
-</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370270">einige
-</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370210">Datenauswertungen
-ermöglicht
-\[</span>[<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372720">LINELIST-Werkzeug</span>](%20https://www.rki.de/DE/Content/InfAZ/L/Lebensmittel/Linelist-Tool/Linelist_Werkzeuge_Tab_gesamt.html "LINELIST-Werkzeug")<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372720">\]</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370210">.
-</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370270">I</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26371270">m
-</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370270">Linelist-Werkzeug
-k</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26371270">ö</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370270">nn</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26371270">en</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370270">
-zusätzlich zu den
-</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26371270">demografischen
-und klinischen Angaben
-</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370270">auch
-</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26371270">Informationen
-zu vor </span>Erkrankungsbeginn
-verzehrt<span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26371270">en
-</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370270">Lebensmittel</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26371270">n
-erfasst werden.
-</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370270">
+werden systematisch dokumentiert
+(Line</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372920">list</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372970">
+\#Verweis auf Grundlagen
+einfügen</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372720">)</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370210">.
 </span>
 
 <span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370270">Alle
@@ -824,7 +724,7 @@ dem
 Zeit</span>**<span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370210">
 wird beschrieben, wann der Ausbruch stattgefunden hat. Dafür wird eine
 Epidemiekurve erstellt, die
-</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370220">grafische
+</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370220">grafisch
 die Anzahl der Erkrankungsfälle nach der
 Zei</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370230">t
 ihres Auftretens
@@ -843,14 +743,50 @@ Ausbruchs dargestellt
 werden</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370280">
 (Punktquelle oder fortbestehende
 Infektionsquelle)</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370230">.
-Auch kann die Form der Epidemiekurve wertvolle Hinweise auf den
+</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372980">Statistisch
+betrachtet ist eine epidemische Kurve ein Histogramm der aufgetretenen
+Fälle entlang der Zeitachse. Die Wahl der Zeiteinheiten
+(</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372990">engl.
+</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372980">"histogram
+bucket size") ist nicht festgelegt und hängt von Erreger und
+Darstellungsziel ab. Für die Beschreibung der jährlichen Erregerdynamik
+von z.B. Salmonellen oder Campylobacter genügt ein wöchentlicher
+Zeitabstand.
+</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372990">Im
+Ausbruch gelingt
+d</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372980">ie
+Abbildung der
+</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372990">D</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372980">ynamik
+gut, wenn man die halbe Inkubationszeit (Median, \#Verweis Anhang
+Tabelle Inkubationszeiten) als Zeitabstand nimmt, um keine Sprünge
+</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372990">in
+den</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372980">
+Erkrankungen zu verpassen. Für
+eine</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372990">
+Darstellung der Krankheitsübersicht am Ende des Ausbruchs würde man
+größere Zeitabstände verwenden, um auf gleicher Darstellungsfläche
+mehr Fälle abbilden zu
+können.</span>
+
+<span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370230">Auch
+kann die Form der Epidemiekurve wertvolle Hinweise auf den
 Übertragungsweg des Erregers
 liefern</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370280">
 (z.B.
 Mensch-zu-Mensch-Übertragung)</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370230">.
 Anhand der Epidemiekurve kann u.U. der mögliche Infektionszeitraum
-bestimmt werden (wenn der Erreger und die Inkubationszeit für den
-Erreger bekannt ist). Wenn der genaue Expostionszeitpunkt
+bestimmt
+werden</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372810">,
+</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370230">wenn
+der Erreger und die
+Inkubationszeit</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372810">en</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370230">
+bekannt
+</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372810">sind
+(</span>*<span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372810">bitte
+hier internen Link einfügen AUS05 "Inkubationszeite ausgewählter
+gastroenterischer
+Erreger</span>*<span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372810">)</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370230">.
+Wenn der genaue Expostionszeitpunkt
 </span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370240">der
 Erkrankungsfälle
 </span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370230">bekannt
@@ -951,10 +887,14 @@ Ausbruch von ESBL-produzierenden Klebsiella pneumoniae auf einer
 Neugeborenen-Intensivstation (Haller, S et al., BMJ open
 2015)</span>](a0417251-b2df-49b5-a642-d593890eb60e.jpg)
 
-<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26370300">Darüberhinaus
+<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372990">Tuberkuloseausbrüche
+erfordern oft viele Kontaktermittlungen.
+Hier</span><span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26370300">
 können Netzwerkanalysen hilfreich sein, um Infektionsketten zu
 visualisieren und nachzuvollziehen.
-</span>
+</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372990">Ein
+kostenloses Werkzeug zur Netzwerkanalyse und -visualisierung ist
+</span>[<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372990">NodeXL</span>](https://www.smrfoundation.org/nodexl/ "NodeXL")<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372990">.</span>
 
 <span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370270">A</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370280">nhand
 </span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370270">der
@@ -992,7 +932,9 @@ Erkrankungsbeginn rohes Hackfleisch gegessen?) enthalten. Offene Fragen
 bieten bei einer explorativen Befragung den Vorteil, dass auch
 Informationen erfasst werden können, an die die Befragenden vorher nicht
 gedacht haben und die für die Ausbruchsaufklärung richtungsweisend sein
-könnten.
+könnten</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372990">.
+Sie sind jedoch schwerer zu codieren und auszuwerten als geschlossene
+Fragen</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371220">.
 </span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371230">Befragungen
 können telefonisch, schriftlich (Fragebogen per Post), online oder
 face-to-face durchgeführt
@@ -1017,8 +959,40 @@ lebensmittelbedingten Ausbruch wäre die Hypothese, dass der Verzehr
 eines bestimmten Lebensmittels, z.B. rohes Hackfleisch, in Zusammenhang
 mit den Erkrankungen im Ausbruchsgeschehen steht (z.B. Salmonellosen).
 </span>
-<span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371230">
+<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372950">Da
+bei nosokomialen Ausbrüchen die Personen zu Personen Übertragung im
+Vordergund steht,
+</span><span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372960">ist
+es Sinnvoll damit als Ausgangshypothese zu starten. Wenn sich trotz
+implementierter Maßnahmen, oder bei der Ausbruchsuntersuchung Zweifel an
+diesem Übertragungsweg ergeben, kann die Hypothese entsprechend
+angepasst werden (Beispiel alle Patienten waren zu Medizinprodukt A
+exponiert und wurden nicht in räumlicher zeitlicher Nähe
+behandelt).</span><span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372950">
 </span>
+
+<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372970">Die
+Hypothesen </span>sollten so früh wie möglich
+auch<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372970">
+</span>in
+zielgerichtete<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372970">
+</span>Präventionsmaßnahmenumgesetzt werden. Dabei kann es sich
+<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372970">in
+Krankenhäusern </span>z.B.um zusätzliche
+Desinfektionsmaßnahmen,<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372970">
+</span>Sperrung von Neuaufnahmen oder
+das<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372970">
+</span>Screening von Patienten handeln.
+Hierbei<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372970">
+</span>ist es unerlässlich, das betroffene
+Personal<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372970">
+</span>mit in die Formulierung der Kontrollmaß-nahmen einzubinden, damit
+sichergestelltwird, dass diese auch so durchführbar sindund die
+vorgeschlagenen Änderungenwirklich eine Chance haben, umgesetzt
+zuwerden.<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372970">
+(Zitat </span>Katharina Alpers, Klaus Weist, Tim Eckmanns, Gérard
+Kraus<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372970">e:
+</span>[<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372970">https://edoc.rki.de/bitstream/handle/176904/948/27SMqNuDowQOs.pdf?sequence=1\&isAllowed=y</span>](https://edoc.rki.de/bitstream/handle/176904/948/27SMqNuDowQOs.pdf?sequence=1&isAllowed=y "https://edoc.rki.de/bitstream/handle/176904/948/27SMqNuDowQOs.pdf?sequence=1&isAllowed=y")<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372970">)</span>
 
 ## **<span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26371210">Baustein: Hypothese prüfen</span>**
 
@@ -1048,8 +1022,10 @@ Frage<span class="approved-insertion" data-user="50" data-username="RosnerB" dat
 enthalten.
 
 <span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371240">Die
-Durchführung von Kontrollstudien bietet sich bei Ausbrüchen an, die sich
-auf einen offensichtlichen gemeinsamen Expositionsort der
+Durchführung von
+</span><span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26372940">Kohorten</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371240">studien
+bietet sich bei Ausbrüchen an, die auf einen offensichtlichen
+gemeinsamen Expositionsort der
 Erkran</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372720">k</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371240">ten
 zurückgeführt werden können (z.B. Ausbrüche nach einer Familienfeier).
 Unter einer Kohorte versteht man eine definierte, geschlossene
@@ -1072,9 +1048,7 @@ erfasst</span><span class="approved-insertion" data-user="50" data-username="Ros
 werden</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371250">.
 </span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371260">Die
 erfassten Daten werden zur Auswertung in sogenannte Vierfeldertafeln
-eingetragen. Anhand der Vierfeldertafeln wird das Erkrankungsrisiko der
-Exponierten berechnet und das Erkrankungsrisiko der Nicht-Exponierten
-berechnet. Das Erkrankungsrisiko der Exponierten wird dann ins
+eingetragen. Das Erkrankungsrisiko der Exponierten wird dann ins
 Verhältnis zum Erkrankungsrisiko der Nicht-Exponierten gesetzt, um das
 Relative Risiko zu berechnen. Das Relative Risiko stellt bei
 Kohortenstudien das Maß für die Stärke des Zusammenhangs zwischen der
@@ -1092,30 +1066,84 @@ positiven Zusammenhang zwischen der Exposition und den Erkrankungen hin.
 
 ![<span class="figure-cat-figure">Figure</span>](c4c828d1-2d64-4f86-9be9-498374accb92.png)
 
-<span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371280">In
-Ausbruchsgeschehen bietet sich die Durchführung einer
-Fall-Kontroll-Studie an, wenn die Exposition der Erkrankten nicht auf
-einen gemeinsamen Expotionsort zurückgeführt werden kann und die
-Erkrankungsfälle verstreut auftreten. In einer Fall-Kontroll-Studie
-werden erkrankte und nicht
-erkran</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372720">k</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371280">te
-Personen hinsichtlich ihrer Expositionen
-befra</span><span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26371290">g</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371280">t.
+![<span class="figure-cat-figure">Figure</span>](fc99ea06-5a80-4acd-8e89-c88fbfd7bea9.png)
+
+<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374730">W</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371280">enn
+</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374730">im
+Ausbruchsgeschehen
+</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371280">die
+Exposition der Erkrankten nicht auf ein
+gemeinsame</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374720">s
+Ereignis oder
+"Gruppenerlebnis"</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371280">
+zurückgeführt werden kann und die Erkrankungsfälle verstreut
+auftreten</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374730">,
+﻿bietet sich die Durchführung einer Fall-Kontroll-Studie
+an</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371280">.
 Im Unterschied zur Kohortenstudie werden die Studienteilnehmenden nach
-ihrem Erkrankungsstatus ausgewählt. Erkrankte Personen werden als Fälle
-bezeichnet, nicht-erkrankte Personen als Kontrollen. Als Maß für den
-Zusammenhang zwischen Exposition und Erkrankungen wird die Odds Ratio
-berechnet.
-</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371290">Dafür
-wird die Odds (Chance) der Fälle, exponiert gewesen zu sein, ins
-Verhältnis gesetzt zu der Odds (Chance) der Kontrollen, exponiert
-gewesen zu sein. Eine besondere Herausforderung von
-Fall-Kontroll-Studien ist es, geeignete Kontrollpersonen zu finden.
-</span>Die Kontrollpersonen in einer Fall-Kontroll-Studie sollten
-dieselbe Gelegenheit gehabt haben, exponiert gewesen zu sein
+ihrem Erkrankungsstatus
+ausgewählt</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374670">.
+Es wird also nicht mehr die Gruppe, die z.B. auf einer Hochzeitsfeier
+</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374720">gemeinsam
+</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374670">dem
+Kuchenbuffet exponiert war,
+</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374720">nach
+Kranken und Gesunden sortiert, sondern man geht von den Erkrankten aus
+und sucht eine
+</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374740">passende
+</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374720">Vergleichgruppe</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371280">.
+Erkrankte Personen werden als Fälle bezeichnet, nicht-erkrankte Personen
+als Kontrollen.
+</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374720">Nachdem
+man die
+</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374730">Kontrollgruppe
+beliebig groß wählen kann, würde das Relative Risiko
+je</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374740">
+nach Größe der
+Kontrollgruppe</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374730">
+ein anderes Ergebnis liefern, weil bei dessen Berechnung die
+Nicht-Kranken jeweils
+zu</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374740">
+den Kranken
+</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374730">addiert
+werden (siehe Abbildung \#Relatives Risiko).
+</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371280">Als
+Maß für den Zusammenhang zwischen Exposition und Erkrankungen wird
+</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374740">deshalb
+</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26373000">das
+Chancenverhältnis (engl. "odds
+ratio")</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371280">
+berechnet</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374740">.
+Eine Verdopplung der Kontrollgruppe kürzt sich beim Chancenverhältnis
+gegenseitig</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374750">
+heraus</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371280">.
+</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26373000">Analog
+zum relativen Risiko wird die Chance (eng. "odds"), bei Exposition zu
+erkranken durch die Chance geteilt, bei Nichtexposition zu
+erkranken.</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26373000">
+Liegt das Chancenverhältnis über Eins (\>1) dann erhöht die Exposition
+(z.B. Verzehr eines Lebensmittels, medizinische Intervention,
+Anwesenheit auf Station X am Tag Y) die Chance, zu erkranken, verglichen
+mit
+Nichtexposition.</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371290">
+Eine besondere Herausforderung von Fall-Kontroll-Studien ist es,
+geeignete Kontrollpersonen zu finden. </span>Kontrollpersonen in einer
+Fall-Kontroll-Studie
+<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26373010">müssen
+</span>dieselbe Gelegenheit gehabt haben, exponiert gewesen zu sein
 wi<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372720">e</span>
-die Fälle.
-<span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371300">Wenn
+die
+Fälle<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26373010">.</span>
+<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374740">Wenn
+sich beispielsweise bundesweit Infektionen von Kleinkindern mit einem
+bestimmten Salmonellentyp häufen und man die Hypothese "Ausbruchsvehikel
+Minisalami"</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374750">
+hat, dann könnte man passend zu den Fallpersonen Kleinkinder im gleichen
+Kreis als Kontrollpopulation wählen
+<span class="citation">(“Salmonella-Panama-Erkrankungen: Zu einem
+überregionalen Ausbruch bei Kindern durch Minisalami-Sticks,”
+2008)</span>.
+</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371300">Wenn
 in Gesundheitsämtern die Durchführung einer Fall-Kontroll-Studie geplant
 ist, wird empfohlen, sich vorher
 </span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371310">eine
@@ -1127,6 +1155,8 @@ oder sich an ihre Landesgesundheitsbehörde oder das RKI zu wenden.
 
 ![<span class="figure-cat-figure">Figure</span>](92338860-3b80-47c3-ba15-34f6f76c79d0.png)
 
+![<span class="figure-cat-figure">Figure</span>](dd11ced0-6bce-4973-ad72-9ba5123995a3.png)
+
 <span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371290">Für
 lebensmittelbedingte Krankheitsausbrüche bietet das Excel-basierte
 </span>[<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372730">LINELIST-Werkzeug</span>](https://www.rki.de/DE/Content/InfAZ/L/Lebensmittel/Linelist-Tool/Linelist_Werkzeuge_Tab_gesamt.html "LINELIST-Werkzeug")<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372730">
@@ -1134,7 +1164,10 @@ lebensmittelbedingte Krankheitsausbrüche bietet das Excel-basierte
 RKI die Möglichkeit, Relative Risiken bzw. Odds Ratios zu
 berechnen</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372720">
 </span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372730"><span class="citation">(Siehe
-dazu auch die Veröffentlichung von Werber & Bernard, 2014)</span>.
+dazu auch die Veröffentlichung von Werber & Bernard,
+2014)</span></span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26372970">
+(\#Verweis auf Grundlagen einfügen, Eintrag
+Linelist</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372730">.
 </span>
 
 Maßzahlen wie Relatives Risiko oder Odds Ratio werden meist mit einem
@@ -1291,10 +1324,7 @@ minimieren.
 
 ## **<span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26370150">Baustein: Kommunizieren</span>**
 
-<span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372650">Der
-effektiven Risiko- und Krisenkommunikation im Rahmen eines
-Ausbruchsmanagemts kommt eine bedeutende Rolle
-zu.</span>
+### <span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26372850">Allgemein </span>
 
 <span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372650">Zur
 effektiven Kommunikation im Rahmen eines Ausbruchsmanagements gehören
@@ -1302,27 +1332,48 @@ sowohl die Information aller Akteure untereinander, als auch die
 I</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372700">n</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372650">formation
 der Fachöffentlichkeit und der Öffentlichkeit sowie die
 I</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372700">n</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372650">formationsweitergabe
-an und durch die Medien. "Transparenz ist hierbei oberstes Gebot, um
-behördliche Entscheidungen und Hinweise zum Schutzverhalten für die
-Bevölkerung sowie für die Fachöffentlichkeit nachvollziehbar zu
-vermitteln</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372660">."
-(</span>Praktische
-Aspekte<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372760">
-XXX QUelle)</span>
+an und durch die Medien. </span>Die Weltgesundheitsorganisation
+schreibt: "Effektive Risikokommunikation ist ein wesentliches Element
+des Ausbruchsmanagements. Wenn die Öffentlichkeit von einer
+tatsächlichen oder potentiellen Gesundheitsbedrohung bedroht ist, sind
+die Behandlungsmöglichkeiten möglicherweise begrenzt, direkte
+Interventionen können Zeit in Anspruch nehmen und es stehen nur wenige
+Ressourcen zur Verfügung. Eine proaktive Kommunikation ermutigt die
+Öffentlichkeit, sich schützendes Verhalten anzueignen, erleichtert die
+Überwachung der Krankheit, verringert die Verwirrung und ermöglicht
+eine bessere Nutzung der Ressourcen - alles notwendige Voraussetzungen
+für eine wirksame Reaktion. \[...\] Indem eine Bevölkerung und Partner
+auf ein Infektionskrankheitsrisiko aufmerksam gemacht werden, nimmt die
+Erfassung potenzieller Fälle zu, werden schützende Verhaltensweisen
+angenommen, ist die Verwirrung begrenzt und werden die
+Kommunikationsressourcen eher konzentriert. Eine wirksame Kommunikation
+kann dazu beitragen, die Ausbreitung einer Krankheit zu begrenzen und
+letztlich Leben zu retten." <span class="citation">(*World Health
+OrganizationOutbreak CommunicationPlanning Guide*, 2008)</span>.
 
 Kommunikation muss dabei situations- und lagebedingt sein. Bei einem
 kleinen Ausbruch kann es beispielsweise sein, dass gar keine
 Pressemitteilung verfasst, oder erst nach Presseanfrage eine Mitteilung
 herausgegeben wird. Während eines großen Ausbruchsgeschehen ist jedoch
-die Verunsicherung der Bevölkerung groß. Hier ist von Anfang an " mit
+die Verunsicherung der Bevölkerung groß. Hier ist von Anfang an "mit
 einem massiven Bedarf an Informationen und Kommunikation zu rechnen"
-(Epid. bed. Lagen Link) diesem sollte man frühzeitig mit adäquaten
-Methoden der Krisenkommunikation und unter Nutzung aller Medien
-erfolgen.
-<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372760">Hierbei
-kann es hilfreich sein die zuständige Presseabteilung bereits vorab mit
-Informationen zu versorgen, sodass im Bedarfsfall schnell auf Anfragen
-reagiert werden kann. </span>
+<span class="citation">(“Epidemisch bedeutsame Lagen erkennen, bewerten
+und erfolgreich bewältigen,” 2019)</span> diesem sollte man frühzeitig
+mit adäquaten Methoden der Krisenkommunikation und unter Nutzung aller
+Medien erfolgen. Hierbei kann es hilfreich sein die zuständige
+Presseabteilung bereits vorab mit Informationen zu versorgen, sodass im
+Bedarfsfall schnell auf Anfragen reagiert werden kann.
+
+Wichtig ist
+<span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26372840">zudem
+die </span> zeitnahe Information anderer beteiligter Behörden sowie die
+Weitergabe von für die Bearbeitung des Ausbruchsgeschehens wichtiger
+neuer Informationen. Hinweise zu involvierten Akteuren gibt
+beispielsweise das Dokument "[National Pandemiplan Teil
+I](https://edoc.rki.de/bitstream/handle/176904/187/28Zz7BQWW2582iZMQ.pdf?sequence=1&isAllowed=y "National Pandemiplan Teil I")"
+des RKI oder der [Leitfaden Management lebensmittelassoziierter
+Infektionen](https://www.untersuchungsaemter-bw.de/pdf/Leitfaden-Management-lebensmittelassoziierter-InfektionenBW.pdf "Leitfaden Management lebensmittelassoziierter Infektionen")
+das Landes Baden-Würrtemberg.
 
 Gesetzlich vorgeschriebene Meldewege (§§ 6 und 7 Infektionsschutzgesetz)
 müssen, wie
@@ -1342,12 +1393,32 @@ des RKI heruntergeladen werden
 nach
 IGV</span>](https://www.rki.de/DE/Content/Infekt/IfSG/Meldeboegen/Meldung_12/meldung_12_node.html;jsessionid=D503743F5967D0724900B74588ED64A2.1_cid298 "Meldebogen nach IGV")<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372760">\]</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372770">.</span>
 
-**<span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372720">Allgemein</span>**
+<span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26372810">Das
+RKI
+</span><span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26372820">stellt
+bei
+Bedarf</span><span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26372810">
+Meldungen in das Europäische Frühwarnsystem "</span>[Early Warning and
+Response System
+(EWRS)](https://www.ecdc.europa.eu/en/early-warning-and-response-system-ewrs "Early Warning and Response System (EWRS)")<span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26372810">"
+ein und
+</span><span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26372820">leitet
+die dort eingstellten
+Informati</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372930">o</span><span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26372820">nen</span><span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26372810">
+an die zuständigen Landesbehörden weiter.
+</span>
+
+### <span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26372850">Wesentliche Prinzipien einer effektiven Kommunikation</span>
 
 Die WHO hat informative Dokumente zur Kommunikation in Ausbrüchen
 veröffentlicht<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372770">
-\[Link/QUelle\]</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372710">.
-Dabei sind die unten ausgeführten fünf Punkt wesentliche
+</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372810"><span class="citation">(2013,
+2018a, 2018b; *World Health OrganizationOutbreak CommunicationPlanning
+Guide*,
+2008)</span></span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372710">.
+Dabei sind die unten ausgeführten fünf
+Punkt</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372930">e</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372710">
+wesentliche
 </span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372770">Eckpunkte</span>,
 die insbesondere bei
 schwerw<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372770">ie</span>genden
@@ -1357,7 +1428,8 @@ sollten<span class="approved-insertion" data-user="48" data-username="Hoeglund-B
 
 #### 1\. Vertrauen aufbauen
 
-Als Grundlage für eine wirksame Kommunikation ist
+<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372800">"</span>Als
+Grundlage für eine wirksame Kommunikation ist
 <span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372770">es
 </span>das wichtigste Ziel, das Vertrauen der Öffentlichkeit in die für
 die Bekämpfung des Ausbruchs und die Herausgabe von Informationen über
@@ -1458,7 +1530,8 @@ aktuelle Informationen in koordinierter und konsistenter Weise bemühen.
 Bei der Ankündigung von Entscheidungen zu Beginn eines Ausbruchs wird
 die Presse hilfreich sein, insbesondere wenn das Management des
 Ausbruchs transparent ist. Aber Journalisten können sich schnell
-gegen<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372800">die
+gegen<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372950">
+</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372800">die
 eigene Institution </span>wenden, wenn sie das Gefühl haben, getäuscht
 worden zu sein.
 
@@ -1470,20 +1543,27 @@ Kommunikationsplanung bei Ausbrüchen muss von Anfang an Teil der Planung
 des Ausbruchsmanagements sein. Unter den Notfallbedingungen eines
 Ausbruchs kann die Kommunikation nicht ideal sein, wenn ihre Prinzipien
 erst in letzter Minute in der Eile der Informationsveröffentlichung
-berücksichtigt werden, aber gleichzeitig ist eine nicht im Voraus
-geplante Kommunikation über einen Ausbruch nicht unbedingt zum Scheitern
-verurteilt. Wie während der Konsultation \[im best pratice workshop\]
-festgestellt wurde, hatten viele von SARS betroffene Länder keine
-Kommunikationspläne, kommunizierten aber sehr effektiv mit der
-Öffentlichkeit. Andere haben große Fehler gemacht - und teuer bezahlt;
-diese hätten vermieden werden können, wenn die Kommunikationsfragen im
-Voraus berücksichtigt worden wären." <span class="citation">(*Outbreak
-Communication*,
+berücksichtigt
+werden<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372800">.
+G</span>leichzeitig ist eine nicht im Voraus geplante Kommunikation über
+einen Ausbruch nicht unbedingt zum Scheitern verurteilt.
+<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372800">Viele
+der von SARS
+betroffenen</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372950">
+L</span>änder
+<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372800">hatten
+</span>keine Kommunikationspläne, kommunizierten aber sehr effektiv mit
+der Öffentlichkeit. Andere haben große Fehler gemacht - und teuer
+bezahlt; diese hätten vermieden werden können, wenn die
+Kommunikationsfragen im Voraus berücksichtigt worden wären."
+<span class="citation">(*Outbreak Communication*,
 2004)</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372660">
-Link NPP Teil
-I).</span>
+</span><span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372810">\[</span>[<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372810">Kommunikation
+im National Pandemieplan Teil
+I</span>](https://edoc.rki.de/bitstream/handle/176904/187/28Zz7BQWW2582iZMQ.pdf?sequence=1&isAllowed=y "Kommunikation im National Pandemieplan Teil I")<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372810">\].
+</span>
 
-**<span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372710">Kommunikationsplan/-strategie</span>**
+### <span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372710">Kommunikationsplan/-strategie</span>
 
 <span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372710">Wie
 beschrieben sollte d</span>ie Krisenkommunikationsstrategie im Zeitraum
@@ -1503,8 +1583,9 @@ n.d.)</span></span><span class="approved-insertion" data-user="48" data-username
 hat hierzu hilfreiche Hinweise
 veröffentlicht</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372680">:</span>
 
-  - Ermittlung und Benennung eines Sprechers oder einer dauerhaft
-    erreichbaren Kontaktstelle, die als primärer Anprechpartner für das
+  - <span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372810">"</span>Ermittlung
+    und Benennung eines Sprechers oder einer dauerhaft erreichbaren
+    Kontaktstelle, die als primärer Anprechpartner für das
     Untersuchungsteam fungiert. Indem die Kommunikationsrolle auf eine
     oder wenige Personen konzentriert wird, wird die Effizienz des Teams
     optimiert. Dies minimiert auch das Potenzial für Verwirrung oder
@@ -1544,141 +1625,29 @@ veröffentlicht</span><span class="approved-insertion" data-user="48" data-usern
         auf das Problem aufmerksam zu
 machen."
 
-### <span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26370190">Kommunikation mit anderen Behörden</span>
-
-<span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372680">Wichtig
-ist die möglichst zeitnahe Information anderer beteiligter Behörden
-sowie die Weitergabe von für die Bearbeitung des Ausbruchsgeschehens
-wichtiger neuer Informationen. Hinweise zu involvierten
-</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372720">Akteure</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372680">n
-gibt beispielsweise das Dokumen "Nationaler Pandemieplan-Teil I"
-(</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372730">Nationaler
-Pandemieplan-Teil I. RKI.<span class="citation">(2017)</span>
-</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372680">)
-oder der
-</span><span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26370270">Leitfaden
-für Lebensmittelassoziierte Ausbrüche
-</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372680">des
-Landes Baden-Württemberg
-(link)</span><span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26370270">.
-Der
-</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372680">darin
-enthaltende
-</span><span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26370270">Abschnitt
-zur Kommunikation
-gilt</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372680">
-</span><span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26370270">sicherlich
-auch für andere
-Bereiche:</span>
-
-<span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26370260">"</span>Während
-eines vermuteten oder manifesten Ausbruchsgeschehens ist immer ein
-fortlaufender Austausch von Ermittlungsergebnissen und Informationen
-über eingeleitete und durchgeführte Maßnahmen anzustreben. Alle für die
-Bearbeitung erforderlichen Fakten sollen in den beteiligten Behörden
-zeitnah vorliegen. In der Regel wird ein
-Ausbruchsgeschehen<span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26370260">
-in den
-</span>Lebensmittelüberwachungsbehörde<span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26370260">n
-(</span>LMÜ<span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26370260">)</span>
-bzw.<span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26370260">
-Gesundheitsamt</span>
-<span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26370260">(</span>GA<span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26370260">)</span>
-zunächst nur durch je eine zuständige Person bearbeitet werden. Kleinere
-protrahierte und diffuse Ausbrüche mit einer überschaubaren Fallzahl
-sind in der Regel ebenfalls auf dem kleinen Dienstweg ohne die Bildung
-eines Ausbruchsteams zu bewältigen. Die Kommunikation und Kooperation
-zwischen LMÜ und GA kann aber auch über ein mehrköpfiges Ausbruchsteam
-organisiert und sichergestellt werden
-<span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26370260">\[...\]</span>.
-Bei der Entscheidung für eine der beiden Varianten müssen Besonderheiten
-des aktuellen Ausbruchsgeschehens berücksichtigt werden. Wichtig für
-eine reibungslose Kommunikation ist in jedem Fall die namentliche
-Benennung der Ansprechpartner bei LMÜ und
-GA.<span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372730">
-</span><span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26370250">In</span>
-Abhängigkeit von der fachlichen Einschätzung müssen die LMÜ und das GA
-auch entscheiden, ob die Leitung eines Landkreises bzw. einer
-kreisfreien Stadt informiert werden muss. Wichtige Kriterien hierfür
-sind: Die Wahrscheinlichkeit, mit der ein Lebensmittel ursächlich
-beteiligt ist, die Anzahl der Erkrankten, die Schwere der Erkrankung,
-die potenziell oder tatsächlich betroffenen Personenkreise sowie die
-mögliche lokalpolitische
-Bedeutung.<span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26370250">
-Be</span>stätigt sich der Verdacht auf einen lebensmittelassoziierten
-Ausbruch nicht, so müssen LMÜ und GA alle bereits kontaktierten Stellen
-darüber
-informieren.<span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26370260">"</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26371320"><span class="citation">(Adam
-et al.,
-2015)</span></span><span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26370260">
-</span>
-
-*Falls
-<span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372720">Informationsweitergabe</span>
-auf internationaler Ebene erforderlich wird, übernimmt diese im
-Regelfall das RKI. Dazu gehört die Weitergabe von Informationen an die
-WHO, die EU und bilaterale Partner über die dafür vorgesehenen
-Kommunikationswege (IGV-Ansprechpartner, EWRS,
-EPIS).*
-
-### <span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26370190">Kommunikation mit der Öffentlichkeit</span>
-
-<span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372680">Wie
-bereits im Allgemeinen Teil genannt werden viele kleinere
-Ausbruchsgeschehen nicht mit der Öffentlichkeit geteilt. </span>In
-epidemisch bedeutsamen Lagen ist
-<span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372730">jedoch
-</span>mit einem massiven Bedarf an Information und Kommunikation zu
-rechnen<span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372730">
-<span class="citation">(“Epidemisch bedeutsame Lagen erkennen, bewerten
-und erfolgreich bewältigen,”
-2019)</span></span>.<span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26371710">
-</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372730">Hier
-spielen die oben beschriebenen fünf Kernelemente eine wesentliche Rolle.
-</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372680">Die
-Weltgesundheitsorganisation schreibt:
-</span><span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26370190">"Effektive
-Risikokommunikation ist ein wesentliches Element des
-Ausbruchsmanagements. Wenn die Öffentlichkeit von einer tatsächlichen
-oder potentiellen Gesundheitsbedrohung bedroht ist, sind die
-Behandlungsmöglichkeiten möglicherweise begrenzt, direkte Interventionen
-können Zeit in Anspruch nehmen und es stehen nur wenige Ressourcen zur
-Verfügung. Eine proaktive Kommunikation ermutigt die Öffentlichkeit,
-sich schützendes Verhalten anzueignen, erleichtert die Überwachung der
-Krankheit, verringert die Verwirrung und ermöglicht eine bessere Nutzung
-der Ressourcen - alles notwendige Voraussetzungen für eine wirksame
-Reaktion. \[...\] Indem eine Bevölkerung und Partner auf ein
-Infektionskrankheitsrisiko aufmerksam gemacht werden, nimmt die
-Erfassung potenzieller Fälle zu, werden schützende Verhaltensweisen
-angenommen, ist die Verwirrung begrenzt und werden die
-Kommunikationsressourcen eher konzentriert. Eine wirksame Kommunikation
-kann dazu beitragen, die Ausbreitung einer Krankheit zu begrenzen und
-letztlich Leben zu
-retten."</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26371700">
-</span><span class="citation">(*World Health OrganizationOutbreak
-CommunicationPlanning Guide*,
-2008)</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372730">.</span>
+### <span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372930">Trainingsmaterial </span>
 
 Grundlagen und Trainings zu Risiko- und Krisenkommunikation im
 Gesundheitsbereich werden u. a. von der WHO
-(Risikokommunikations-Guideline) und dem ECDC angeboten.
-(<span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372690"><span class="citation">(“A
+(Risikokommunikations-Guideline) und dem ECDC angeboten
+<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372930">(</span>[<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372930">A
 literature review on effective risk communication for the prevention and
-control of communicable diseases in Europe,”
-2013)</span></span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372680">
-</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372740">
-</span>61. WHO. Communicating Risk in Public Health Emergencies. A WHO
+control of communicable diseases in Europe. (2013).
+</span>](https://www.ecdc.europa.eu/en/publications-data/literature-review-effective-risk-communication-prevention-and-control "A literature review on effective risk communication for the prevention and control of communicable diseases in Europe. (2013). ")<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372930">;
+</span>[<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372930">
+61. WHO. Communicating Risk in Public Health Emergencies. A WHO
 Guideline for Emergency Risk Communication (ERC) policy and practice.
-(2018). Available from:
-http://www.who.int/risk-communication/guidance/download/en/<span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372690">)</span>.
-Deutschsprachige Materialien bietet der Leitfaden Krisenkommunikation
-des BMI oder das von der EU finanzierte HealthC-Projekt. (62.The Health
-C project. Improving crisis communication skills in health emergency
-management. Available from: http://healthc-project.eu/en/. 63.
-Bundesministerium-des-Inneren. Leitfaden Krisenkommunikation. (2014).
-Available from:
-https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/bevoelkerungsschutz/leitfaden-krisenkommunikation.pdf?\_\_blob=publicationFile\&v=4.
-)
+(2018).</span>](http://www.who.int/risk-communication/guidance/download/en/ " 61. WHO. Communicating Risk in Public Health Emergencies. A WHO Guideline for Emergency Risk Communication (ERC) policy and practice. (2018).")<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372930">).</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372740">
+</span>Deutschsprachige Materialien bietet der Leitfaden
+Krisenkommunikation des BMI oder das von der EU finanzierte
+HealthC-Projekt.
+([<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372930">62
+.The Health C project. Improving crisis communication skills in health
+emergency
+management.</span>](http://healthc-project.eu/en/.%2063.%20Bundesministerium-des-Inneren. "62 .The Health C project. Improving crisis communication skills in health emergency management. ")<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372930">;
+</span>[<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372930">63.
+Bundesministerium-des-Inneren. Leitfaden Krisenkommunikation.
+(2014).</span>](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/bevoelkerungsschutz/leitfaden-krisenkommunikation.pdf?__blob=publicationFile&v=4. "63. Bundesministerium-des-Inneren. Leitfaden Krisenkommunikation. (2014)."))
 
 # 
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 05-Spezifische Ausbrüche
+title: 05-Besonderheiten bei ausgewählten Ausbruchstypen
 nav_order: 5
 ---
  
@@ -16,24 +16,6 @@ nav_order: 5
    <p></p>
  
  
-# <span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26370200">Allgemeines</span>
-
-Die zentralen Aufgaben der
-<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371220">Ausbruchbearbeitenden
-Behörde</span>
-<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26370220">während
-eines Ausbruchs </span>lassen sich unter den
-<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26370210">folgenden
-Elementen</span>
-<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26370210">zusammenfassen:
-</span>
-
-<span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26370210">Jedes
-dieser Elemente hat während der verschiedenen Phasen eines Ausbruchs
-unterschiedliche Bedeutung und kann sowohl von internen als auch
-externen Strukturen geleistet werden.
-</span>
-
 # <span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26371230">Lebensmittel</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371590">bedingte</span><span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26371230"> Ausbrüche</span>
 
 ## <span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371530">Ausbruchsteam</span>
@@ -54,8 +36,14 @@ es in der Zusammenarbeit zu
 Schwierigkeiten</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371550">
 kommen</span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371530">.
 Es empfiehlt sich in der Vorbereitungsphase einen guten Kontakt
-aufzubauen (Link zur
-Vorbereitung)</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371550">.
+aufzubauen
+</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372950">an
+den Edito: bitte internen
+</span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371530">Link</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372950">
+einfugen:</span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371530">
+</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372950">zum
+Kapitel Kommunikation im
+AUS004Ausbruchsmanagement-Teil</span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371530">)</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371550">.
 Wichtig für die
 Aus</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371560">bruchsuntersuchung
 ist ein zeitnaher Austausch von vorliegenden Informationen, vor allem
@@ -85,11 +73,73 @@ Für die Lebensmittelüberwachungsbehörden
 <span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372750">der</span>
 [Leitfaden zur Aufklärung lebensmittelbedingter Ausbrüche entlang der
 Lebensmittelkette](https://www.bfr.bund.de/cm/343/ausbruchsaufklaerung-entlang-der-lebensmittelkette.pdf "Leitfadens zur Ausbruchsaufklärung entlang der Lebensmittelkette")
-über die Infernetseite des Bundesinstituts für Risikobewertung (BfR)
+über die
+In<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">t</span>ernetseite
+des Bundesinstituts für Risikobewertung (BfR)
 <span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372750">zur
 Verfügung gestellt. <span class="citation">(Bundesinstitut für
-Risikobewertung,
-2016)</span></span>
+Risikobewertung, 2016)</span></span>
+
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">Aufgabe</span></p></td>
+<td><p><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">Inhalt der Aufgabe</span></p></td>
+</tr>
+<tr class="even">
+<td><p><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">Annahme und Verarbeitung der Meldung</span></p></td>
+<td><p><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">-Ermittlung: Zeit, Ort, Person, Kontakte, Infektionsquelle/Exposition, Krankenhausaufenthalt, Symptomatik, Reiseanamnese, Berufliche Tätigkeit (§33, 42)</span></p>
+<p><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">-Dokumentation Ansprechpartner</span></p></td>
+</tr>
+<tr class="odd">
+<td><p><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">Probennahme</span></p></td>
+<td><p><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">-Stuhl/Urin/Rachen</span></p>
+<p><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">-Lebensmittel, auf amtliche, gerichtsfeste Entnahme achten</span></p>
+<p><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">-Haustiere</span></p></td>
+</tr>
+<tr class="even">
+<td><p><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">Bildung Ausbruchsteam</span></p></td>
+<td><p><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">-Zusammenstellung notwendiger Personen </span></p></td>
+</tr>
+<tr class="odd">
+<td><p><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">Probenverarbeitung</span></p></td>
+<td><p><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">-Kontaktierung der entsprechenden Labors</span></p>
+<p><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">-Durchführung der Testungen </span></p>
+<p><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">-Dokumentation der Ergebnisse</span></p></td>
+</tr>
+<tr class="even">
+<td><p><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">Ressourcenbereitstellung</span></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">Meldung an übergeordnete Stellen</span></p></td>
+<td><p><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">-Information der lokalen Leitung</span></p>
+<p><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">-Information der übergeordneten Ämter/Institute</span></p></td>
+</tr>
+<tr class="even">
+<td><p><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">Belehrung Betroffener</span></p></td>
+<td><p><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">-Aufklärung: Hygiene, Desinfektionsmaßnahmen, Übertragungswege, Prophylaxe, Weitere Maßnahmen</span></p>
+<p><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">-Aussprechen von Berufsverboten</span></p></td>
+</tr>
+<tr class="odd">
+<td><p><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">Ausübung von Absonderungsmaßnahmen</span></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">Information der Öffentlichkeit</span></p></td>
+<td><p><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">- regelmäßige Zusammenfassung der Informationen nach Zeit, Ort, Person</span></p>
+<p><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">- Informationsweiterleitung an Pressestelle</span></p></td>
+</tr>
+</tbody>
+</table>
+
+<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">Tabelle:
+Rollen und Aufgaben des Teams während eines gastroenterischen
+Ausbruchs</span>
 
 ## Lebensmittel<span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371590">bedingte</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371600">n</span> <span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371500">Ausbruch bestätigen</span>
 
@@ -181,13 +231,16 @@ Mittel</span><span class="approved-insertion" data-user="50" data-username="Rosn
 das möglicherweise in Frage kommende Lebensmittel zu eruieren. Eine
 </span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371560">analytische
 </span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371520">epidemiologische
-Untersuchung wird bei lebensmittelassoziierten Ausbrüchen häufig nur als
-"weicher" Hinweis auf das Lebensmittel gewertet. Dies ist aber abhängig
+Untersuchung wird bei lebensmittelassoziierten Ausbrüchen
+</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374610">von
+Nicht-Epidemiologen
+</span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371520">häufig
+nur als "weicher" Hinweis auf das Lebensmittel gewertet.
+</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374610">Abhängig
 von
-de</span><span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26371530">n
+d</span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371520">e</span><span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26371530">n
 Ergebnissen
-</span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371520">
-der
+</span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371520">der
 </span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371560">analytischen
 </span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371520">epidemiologischen
 Untersuchung,
@@ -196,10 +249,19 @@ typischerweise</span><span class="approved-insertion" data-user="50" data-userna
 als
 </span><span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26371530">relative</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371560">s</span><span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26371530">
 Risiko</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371560">
-oder Odds
-Ratio</span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371520">
+oder
+</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374610">Chancenverhältnis
+(</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371560">Odds
+Ratio</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374610">)</span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371520">
 </span><span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26371530">angegeben
-werden</span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371520">.</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371560">
+werden</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374610">,
+kann eine analytische Studie stärkere Evidenz liefern als ein
+Erregernachweis in einem
+Lebensmittel<span class="citation">(“Oropharyngeal Tularemia from
+Freshly Pressed Grape Must,”
+n.d.)</span></span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374740">
+<span class="citation">(“Epidemiologisches Bulletin 2007/48,”
+2007)</span></span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371520">.</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371560">
 </span>
 
 <span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371520">Eine
@@ -328,12 +390,8 @@ sind,
 </span><span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371530">erwogen
 werden. In vielen Bundesländern existieren interne Richtlinien für die
 Wiederzulassung nach § 42
-</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371580">IfSG.
-</span>
-
-<span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371530">Teilnahmeverbote.
-</span> In vielen Bundesländern existieren interne Richtlinien für die
-Wiederzulassung
+</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371580">IfSG</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374610">,
+sowie für </span>die Wiederzulassung
 <span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371580">zu
 Gemeinschaftseinrichtungen </span>nach §
 <span class="approved-insertion" data-user="22" data-username="jakob.schumacher" data-date="26371530">34</span><span class="approved-insertion" data-user="50" data-username="RosnerB" data-date="26371580">
@@ -417,7 +475,58 @@ periods of enteric illnesses in foodborne outbreaks, United States,
 
 [https://www.untersuchungsaemter-bw.de/pdf/Leitfaden-Management-lebensmittelassoziierter-InfektionenBW.pdf](https://www.untersuchungsaemter-bw.de/pdf/Leitfaden-Management-lebensmittelassoziierter-InfektionenBW.pdf "https://www.untersuchungsaemter-bw.de/pdf/Leitfaden-Management-lebensmittelassoziierter-InfektionenBW.pdf")  
 
-# <span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26371230">Nosokomiale</span><span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372800"> </span>usbrüche
+# <span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26371230">Nosokomiale</span><span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372800"> A</span>usbrüche
+
+Von einem meldepflichtigen nosokomialen Ausbruchsgeschehen im Sinne des
+IfSG spricht man, beim Auftreten von zwei oder mehr nosokomialen
+Infektionen, bei denen ein epidemischer Zusammenhang wahrscheinlich ist
+oder vermutet wird. Darüberhinaus können Erregernachweise und / oder
+Häufungen ein Hinweis auf zu untersuchende Cluster oder Ausbrüche sein.
+Eine kontinuierliech Surveillance sollte im Krankenhaus nach §23 IfSG
+für "*nosokomialen Infektionen und das Auftreten von Krankheitserregern
+mit speziellen Resistenzen und Multiresistenzen..."*
+stattfinden*.<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372810">
+</span>*<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372810">Nach
+§7 Abs. 2 können Häufungen von Erregernaschweise (Kolonisationen)
+ebenfalls Meldepflichtige Ereignisse darstellen, sofern eine Gefahr für
+die Allgemeinheit abgeleitet werden kann (wie beispielsweise bei
+Nachweisen von Erregern mit speziellen Resistenzen). </span>
+
+Unter Patienten, die in Krankenhäusern behandelt werden, können sich
+Infektionskrankheiten und Erreger aus verschiedenen Gründen besonders
+leicht ausbreiten. Zum einen sind kranke und dadurch für nosokomiale
+Infektionen empfängliche Patienten auf engem Raum zusammen, zum anderen
+sind durch zum Teil invasive diagnostische und therapeutische Verfahren
+besondere Übertragungswege gegeben. Da viele Krankenhauspatienten
+auch<span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372960">
+</span>antibiotisch behandelt werden, stellt
+die<span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372960">
+</span>Entwicklung von
+Antibiotika-Resistenzen<span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372960">
+</span>(z.B. bei Staphylokokken, Enterokokkenoder gramnegativen
+Bakterien) ein besonderes Problem dar. Ältere, abwehrgeschwächte
+Patienten, aber auch Frühgeborene sind besonders gefährdet, eine
+nosokomiale Infektion zu
+erwerben.<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372820">
+(Alpers et al.
+</span>[https://edoc.rki.de/bitstream/handle/176904/948/27SMqNuDowQOs.pdf?sequence=1\&isAllowed=y](https://edoc.rki.de/bitstream/handle/176904/948/27SMqNuDowQOs.pdf?sequence=1&isAllowed=y "https://edoc.rki.de/bitstream/handle/176904/948/27SMqNuDowQOs.pdf?sequence=1&isAllowed=y")
+<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372820">
+)</span>
+
+## <span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372810">Nosokomiale Infektionen</span>
+
+Nosokomiale Infektionen gehen mit einer
+<span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26372950">relativ
+hohen</span> Letalität einher und verlängern die
+Krankenhausverweildauer.
+<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372810">Die
+Krankheitslast durch nosokomiale Infektionen für die deutsche
+Bevölkerung übersteigt die Krankheitslast durch andere
+Infektionskrankheiten bei weitem
+(</span><span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372820">Zacher
+et al. Eurosurveillance
+</span>[<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372820">https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2019.24.46.1900135</span>](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2019.24.46.1900135 "https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2019.24.46.1900135")<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372820">
+)</span>
 
 Krankenhausinfektionen<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372770">,
 bzw.</span> Infektionen, die in einem Krankenhaus (oder einer anderen
@@ -440,7 +549,9 @@ haben.<span class="approved-insertion" data-user="51" data-username="HallerS" da
 definiert </span>nosokomialen Infektion
 <span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372770">in
 </span>§2
-IfSG<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372770">
+IfSG<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372810">
+im Sinne einer behandlungsassoziierten
+Infektion</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372770">
 als "</span>Eine Infektion mit lokalen oder systemischen
 Infektionszeichen als Reaktion auf das Vorhandensein von Erregern oder
 ihrer Toxine, die im zeitlichen Zusammenhang mit einer stationären oder
@@ -463,98 +574,35 @@ https://www.nrz-hygiene.de/nrz ). Diese Definitionen bestehen, um die
 Surveillance zu erleichtern, gelten aber nicht außerhalb der
 Surveillance.</span>
 
-Nosokomiale Infektionen gehen mit einer deutlich erhöhten Letalität
-einher, verlängern die Krankenhausverweildauer um durchschnittlich 5
-Tage und verursachen zusätzliche Kosten für das Gesundheitssystem in
-Höhe von 5.000 – 20.000 Euro pro
-Infektion<span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26371560">.
-</span><span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372760">Bei
-</span><span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372770">nosokomialen
-Ausbrüchen steht die Erregerübertragung</span> durch die Hände der
-Mitarbeitenden
-<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372770">häufig
-im
-Vordergrund</span>.<span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26371570">
-</span>Eine der wirksamsten evidenzbasierten Einzelmaßnahmen zur
-Unterbrechung von Infektionsketten in Gesundheitseinrichtungen und damit
-zur Prävention von
-<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372780">nosokomialen
-Infektionen</span> ist die hygienische
-Händedesinfektion<span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26371570">.
-</span>[<span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26371570">Epidemiologisches
+## <span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372810">Maßnahmen</span>
+
+Bei nosokomialen Ausbrüchen steht die Erregerübertragung durch die Hände
+der Mitarbeitenden häufig im Vordergrund. Eine der wirksamsten
+evidenzbasierten Einzelmaßnahmen zur Unterbrechung von Infektionsketten
+in Gesundheitseinrichtungen und damit zur Prävention von nosokomialen
+Infektionen ist die hygienische Händedesinfektion. [Epidemiologisches
 Bulletin 5/
-2020</span>](https://www.rki.de/SiteGlobals/Forms/Suche/serviceSucheForm.html?nn=2725444&input_=2374536&gts=2725442_list%253DdateOfIssue_dt%252Bdesc&resourceId=2390936&submit.x=10&submit.y=8&searchEngineQueryString=nosokomiale&pageLocale=de&rkiDoctypeFacet_str=bulletin "Epidemiologisches Bulletin 5/ 2020")
+2020](https://www.rki.de/SiteGlobals/Forms/Suche/serviceSucheForm.html?nn=2725444&input_=2374536&gts=2725442_list%253DdateOfIssue_dt%252Bdesc&resourceId=2390936&submit.x=10&submit.y=8&searchEngineQueryString=nosokomiale&pageLocale=de&rkiDoctypeFacet_str=bulletin "Epidemiologisches Bulletin 5/ 2020")
 
-Das Risiko für das Auftreten von nosokomialen Infektionen ist dabei je
-nach Einrichtung oder Fachrichtung unterschiedlich und steht mit der Art
-der jeweiligen medizinischen Maßnahmen und zugrundliegenden Erkrankungen
-der betroffenen Patientinnen und Patienten zusammen (sogenannte
-Risikobereiche).
-<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372780">D</span>ie
-höchsten Infektionsraten sind auf Intensivstationen zu beobachten, wo
-Patient<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372780">en/</span>innen
-aufgrund der Schwere ihrer Erkrankung und der damit verbundenen
-intensiven und häufig auch invasiven Behandlung einem hohen
-Infektionsrisiko ausgesetzt sind.
+<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372820">Die
+Händedesinfektion eignet sich als
+Sofortmaßnahme.</span><span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26372950">
+</span>
 
-Von einem
-<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26371730">meldepflichtigen
-</span>nosokomialen Ausbruchsgeschehen im Sinne des
-<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372780">IfSG</span>
-spricht man,
-<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26371730">beim</span>
-Auftreten von zwei oder mehr nosokomialen Infektionen, bei denen ein
-epidemischer Zusammenhang wahrscheinlich ist oder vermutet wird.
-<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26371730">Darüberhinaus
-können Erregernachweise und
-</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372780">/
-</span><span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26371730">oder
-Häufungen
-</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372780">ein
-</span><span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26371730">Hinweis
-auf zu untersuchende Ausbrüche
-sein</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372780">.
-Dazu
-beschreibt</span><span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26371730">
-§23
-</span>IfSG<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372780">
-"</span>*nosokomialen Infektionen und das Auftreten von
-Krankheitserregern mit speziellen Resistenzen und Multiresistenzen
-fortlaufend in einer gesonderten Niederschrift aufgezeichnet, bewertet
-und sachgerechte Schlussfolgerungen hinsichtlich erforderlicher
-Präventionsmaßnahmen gezogen werden und dass die erforderlichen
-Präventionsmaßnahmen dem Personal mitgeteilt und umgesetzt werden.
-Darüber hinaus haben die Leiter sicherzustellen, dass die nach Absatz
-4a festgelegten Daten zu Art und Umfang des Antibiotika-Verbrauchs
-fortlaufend in zusammengefasster Form aufgezeichnet, unter
-Berücksichtigung der lokalen Resistenzsituation bewertet und
-sachgerechte Schlussfolgerungen hinsichtlich des Einsatzes von
-Antibiotika gezogen werden und dass die erforderlichen Anpassungen des
-Antibiotikaeinsatzes dem Personal mitgeteilt und umgesetzt werden. Die
-Aufzeichnungen nach den Sätzen 1 und 2 sind zehn Jahre nach deren
-Anfertigung aufzubewahren. Dem zuständigen Gesundheitsamt ist auf
-Verlangen Einsicht in die Aufzeichnungen, Bewertungen und
-Schlussfolgerungen zu
-gewähren.<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372780">
-"</span>*
-
-<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372800">Literatur
-zu nosokomialen
-Ausbrüchen</span>
+## <span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372800">Literatur zu nosokomialen Ausbrüchen</span>
 
 <span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372800">RKI
 </span>Empfehlungen zur Untersuchung von Ausbrüchen
 nosokomialerInfektionen<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372800">:
 </span>[<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372800">https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Kommission/Downloads/Ausbr\_RiliHeft.pdf?\_\_blob=publicationFile</span>](https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Kommission/Downloads/Ausbr_RiliHeft.pdf?__blob=publicationFile "https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Kommission/Downloads/Ausbr_RiliHeft.pdf?__blob=publicationFile")
 
-<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372800">KRINKO
-</span>Untersuchung von Infektionsausbrüchen im
+Untersuchung von Infektionsausbrüchen im
 Krankenhaus<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372790">:
 </span>[<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372800">https://edoc.rki.de/bitstream/handle/176904/948/27SMqNuDowQOs.pdf?sequence=1\&isAllowed=y</span>](https://edoc.rki.de/bitstream/handle/176904/948/27SMqNuDowQOs.pdf?sequence=1&isAllowed=y "https://edoc.rki.de/bitstream/handle/176904/948/27SMqNuDowQOs.pdf?sequence=1&isAllowed=y")<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372800">
 </span>
 
-Ausbruchmanagement und strukturiertes Vorgehenbei gehäuftem Auftreten
-nosokomialer
+KRINKO Ausbruchmanagement und strukturiertes Vorgehenbei gehäuftem
+Auftreten nosokomialer
 Infektionen<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372800">:
 </span>[<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372800">https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Kommission/Downloads/Ausbr\_Rili.pdf?\_\_blob=publicationFile</span>](https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Kommission/Downloads/Ausbr_Rili.pdf?__blob=publicationFile "https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Kommission/Downloads/Ausbr_Rili.pdf?__blob=publicationFile")
 
@@ -579,9 +627,9 @@ Coronavirus<span class="approved-insertion" data-user="20" data-username="ptinne
 <span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372790">Severe
 Acute Respiratory Syndrom Coronavirus
 (</span>SARS-CoV<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372790">)</span><span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26371550">,</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372790">
-</span>Coronavirus<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372790">
+</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372970">SARS-</span>Coronavirus<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372790">
 2019
-(</span><span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26371550">Covid-19</span>)
+(</span><span class="approved-insertion" data-user="48" data-username="Hoeglund-BraunH" data-date="26372970">SARS-CoV-2</span>)
 sowie bakterielle Erreger (z.B. Legionellen, Mycobacterium tuberculosis,
 Pneumokokken) von Bedeutung. Respiratorische Erreger werden von
 unterschiedlichen Quellen übertragen. Zum Beispiel werden viele
@@ -596,7 +644,7 @@ Weitere Informationen stellt das Robert Koch-Institut auf seiner
 Webseite zu Ausbrüchen durch respiratorische Erreger zur Verfügung
 (</span>[<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26371540">https://www.rki.de/DE/Content/Infekt/Ausbrueche/respiratorisch/Ausbrueche\_durch\_respiratorische\_Erreger\_node.html</span>](https://www.rki.de/DE/Content/Infekt/Ausbrueche/respiratorisch/Ausbrueche_durch_respiratorische_Erreger_node.html "Ausbrüche durch respiratorische Erreger")<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372790">).</span>
 
-# <span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26371310">Impfpräventable Erkrankungen</span>
+# <span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372940">Ausbrüche </span><span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26371310">Impfpräventable Erkrankungen</span>
 
 Impfpräventable Erkrankungen spielen auch in Deutschland immer noch eine
 große Rolle. Es kommt immer wieder zu zum Teil großen regionalen
@@ -624,178 +672,6 @@ verhindern<span class="approved-insertion" data-user="47" data-username="Wagner-
 <span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26370170">https://www.who.int/ihr/elibrary/WHOOutbreakCommsPlanngGuide.pdf</span>
 
 <span class="approved-insertion" data-user="49" data-username="WalterJ" data-date="26370170">https://www.who.int/csr/resources/publications/WHO\_CDS\_2005\_32web.pdf</span>
-
-# <span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26371370">Ausbrüche hochpathogener Erreger</span>
-
-Hochpathogene Krankheitserreger führen häufig zu schweren
-Krankheitsverläufen mit hoher
-Sterblichkeitsrate<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372800">
-und sind</span> immer eine Herausforderung für alle, die mit dem
-Transport, der Betreuung oder der Behandlung
-<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372800">eines
-infizierten</span> Patienten betraut
-sind<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372800">.
-Daher benötigen Ausbruchuntersuchungen zu hochpathogenen Erregern neben
-besonderem </span>Sachverstand
-<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372800">auch</span>
-geeignete Schutz- und Hygienemaßnahmen
-<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372800">um
-Personal vor </span>Infektion
-<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26372800">zu
-schützen.</span>
-
-### <span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26372700">Schutzmaßnahmen</span>
-
-Im Fall einer biologischen Gefahrensituation werden Maßnahmen ergriffen,
-die die Ansteckungsgefahr für die Beteiligten vor Ort wie auch für die
-Bevölkerung verringern. Es ist zu gewährleisten, dass
-
-  - eine Ausbreitung des Geschehens über den Gefahrenort hinaus
-    verhindert wird,
-
-  - das Einsatzpersonal vor Ansteckung und Kontamination geschützt wird,
-
-  - infizierte und ansteckungsverdächtige Personen schnellstmöglich
-    versorgt und wenn nötig isoliert werden.  
-
-Behandlung auf
-Sonderisolierstation<span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26372700">.</span>
-
-Als **behandelnder Arzt oder Ärztin** kontaktieren Sie Ihr lokales
-**Gesundheitsamt**, wenn der begründete Verdacht auf eine Krankheiten
-durch hochpathogene Erreger oder Intoxikation besteht. Welche konkreten
-Maßnahmen umzusetzen sind, ist vom jeweiligen Erreger oder Toxin sowie
-dem ausgelösten Krankheitsbild abhängig und muss nach Sachlage
-entschieden werden. Das Gesundheitsamt kann konkrete Hilfestellungen für
-das weitere Vorgehen geben und notwendige Maßnahmen zum Erhalt der
-öffentlichen Gesundheit einleiten.
-
-Bei bioterroristischen Anschlägen ist die frühzeitige Erkennung und
-Erfassung von möglichen Verdachtsfällen entscheidend. Nur dann kann eine
-angemessene und effiziente Reaktion der Behörden erfolgen.
-
-Welche Befugnisse das Gesundheitsamt hat und welche gesetzlichen
-Meldewege einzuhalten sind, ist im **Infektionsschutzgesetz (IfSG)**
-geregelt.
-
-### **<span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26372690">Isolierung und Behandlung</span>**
-
-In Deutschland gibt es **Kompetenz- und Behandlungszentren**, die auf
-den Umgang mit Patienten mit Krankheiten durch hochpathogene Erreger
-spezialisiert sind. Die **Kompetenzzentren** sind für die Beratung, ggf.
-für die Koordination und Steuerung geeigneter Maßnahmen im Falle des
-Verdachts einer gefährlichen Infektion zuständig. Die
-**Sonderisolierstationen** bieten für die Behandlung von Patienten mit
-hoch ansteckenden Krankheiten neben der fachlich-medizinischen und
-pflegerischen Expertise auch die geeigneten räumlichen und technischen
-Voraussetzungen.
-
-Wenn Erkrankte nicht auf eine der Sonderisolierstationen verlegt werden
-können, sind Absonderungs- bzw. Isolierungsmaßnahmen im regulären
-Krankenhaus durchzuführen. Das so genannte **Barrieremanagement**
-umfasst dabei neben der Arbeit in Schutzausrüstung auch die Versorgung
-des Erkrankten unter diesen besonderen Umständen. So wird beispielsweise
-der Zugang geregelt, indem verschiedene Sicherheitszonen eingerichtet
-werden. Ziel ist es, eine weitere Ausbreitung der Infektion zu
-verhindern bzw. Personen im Umfeld zu
-schützen.
-
-<span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26372720">Kompetenzzentren
-in Deutschland -
-</span>[<span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26372720">STAKOB</span>](https://www.rki.de/DE/Content/Kommissionen/Stakob/Stakob_node.html "STAKOB")<span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26372720">.</span>
-
-![<span class="figure-cat-figure">Figure</span>](bc4ca3d5-c307-4b6d-ab87-a264ddd8b0b7.jpg)
-
-### Kontaktpersonen-Management
-
-Eine zentrale Aufgabe ist das Management von Kontaktpersonen — also von
-Personen, die mit dem Erkrankten in Berührung gekommen sind. Das können
-z.B. betreuendes medizinisches Personal, Familienmitglieder, Freunde,
-Mitreisende oder geschäftliche Kontakte sein.
-
-Um eine Ausbreitung der Krankheit zu verhindern, werden die folgenden
-Maßnahmen - in der Regel **vom zuständigen** **Amtsarzt bzw. der
-Amtsärztin** - durchgeführt:
-
-  - Ermittlung, Klassifizierung, Beratung der Kontaktpersonen und ihrer
-    Angehörigen
-
-  - Festlegung und Koordination von Maßnahmen (Beobachtung, Anraten der
-    Postexpositionsprophylaxe, Desinfektion, Dekontamination, Quarantäne
-    etc.)
-
-  - Koordination der Amtshilfe (Gesundheits- und ggf.
-    Sicherheitsbehörden)
-
-  - Information (Presse und
-Öffentlichkeit)
-
-<span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26372700">Kontaktpersonenmanagment
-am Beispiel
-</span>[<span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26372700">Ebola</span>](https://www.rki.de/DE/Content/Infekt/Biosicherheit/Schutzmassnahmen/Kontakt/Kontakt_node.html "Kontaktpersonenmanagment am Beispiel Ebola")<span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26372700">.</span>
-
-<span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26372710">Mustervorlagen
-für Gesundheitsämter am Beispiel
-</span>[<span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26372710">Ebola</span>](https://www.rki.de/DE/Content/InfAZ/E/Ebola/Kontaktpersonen_Tab.html "Ebola")<span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26372710">.</span>
-
-### <span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26372730">Aufgaben des Gesundheitsamtes</span>
-
-<span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26372730">Gemäß
-§ 30 (Quarantäne) IfSG hat das zuständige Gesundheitsamt anzuordnen,
-dass Personen die an einer hochpathogenen Infektionserkrankung erkrankt
-oder dessen verdächtig sind, unverzüglich in einem Krankenhaus oder
-einer für diese Krankheiten geeignete Einrichtung abgesondert werden.
-Nach Möglichkeit sollte die Isolierung eines Erkrankten bzw. eines
-begründeten Verdachtsfalls auf einer Sonderisolationsstation erfolgen.
-</span>
-
-<span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26372730">Kommt
-der Betroffene den seine Absonderung betreffenden Anordnung nicht nach
-oder ist nach seinem bisherigen Verhalten anzunehmen, dass er solchen
-Anordnungen nicht ausreichend Folge leisten wird, so ist er zwangsweise
-durch Unterbringung in einem abgeschlossenen Krankenhaus oder einem
-abgeschlossenen Teil eines Krankenhauses abzusondern.
-Ansteckungsverdächtige und Ausscheider können auch in einer anderen
-geeigneten abgeschlossenen Einrichtung abgesondert werden. Das
-Grundrecht der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 Grundgesetz)
-kann insoweit eingeschränkt
-    werden.</span>
-
-  - <span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26372760">Stationäre
-    Aufnahme und strenge Isolierung für
-    Patienten</span>
-
-  - <span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26372760">Schutzausrüstung
-    des Personals
-    (PSA)</span>
-
-  - <span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26372760">Tätigkeits-
-    und Besuchsverbote nach §34 Abs. 1 IfSG bei Verdacht/ Erkankung für
-    Gemeinschaftseinrichtungen</span>
-
-  - <span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26372760">Information
-    an den Leiter der
-    Gemeinschaftseinrichtung</span>
-
-  - <span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26372760">Wiederzulassung
-    durch Arzt und
-Gesundheitsamt</span>
-
-<span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26371550">https://www.sicherheit-forschung.de/forschungsforum/schriftenreihe\_neu/sr\_v\_v/SchriftenreiheSicherheit\_06.pdf</span>
-
-<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26370130">Anhang</span>
-
-<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26370130">Links</span>
-
-[https://www.cdc.gov/csels/dsepd/ss1978/lesson6/section2.html](https://www.cdc.gov/csels/dsepd/ss1978/lesson6/section2.html "https://www.cdc.gov/csels/dsepd/ss1978/lesson6/section2.html")
-
-[https://wiki.ecdc.europa.eu/fem/Pages/Outbreak%20investigations%2010%20steps,%2010%20pitfalls.aspx](https://wiki.ecdc.europa.eu/fem/Pages/Outbreak%20investigations%2010%20steps,%2010%20pitfalls.aspx "https://wiki.ecdc.europa.eu/fem/Pages/Outbreak%20investigations%2010%20steps,%2010%20pitfalls.aspx")
-
-[https://www.cdc.gov/eis/field-epi-manual/chapters/Field-Investigation.html](https://www.cdc.gov/eis/field-epi-manual/chapters/Field-Investigation.html "https://www.cdc.gov/eis/field-epi-manual/chapters/Field-Investigation.html")
-
-[https://wwwnc.cdc.gov/eid/article/4/1/98-0104\_article](https://wwwnc.cdc.gov/eid/article/4/1/98-0104_article "https://wwwnc.cdc.gov/eid/article/4/1/98-0104_article")
-
-https://www.cdc.gov/eis/field-epi-manual/chapters/Field-Investigation.html
 
 ## **<span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26370290">Besonderheit: impfpräventabler Ausbr</span><span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26371210">u</span><span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26370290">ch - Masern</span>**
 
@@ -846,9 +722,10 @@ von</span><span class="approved-insertion" data-user="54" data-username="BuderM"
 
 <span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26371300">Hierbei
 ist es besonders wichtig, genau zu recherchieren wann die Symptomatik
-(Infektiösität: 4 - 5 Tage vor bis 4 Tage nach auftreten des Exanthmens)
-bei der Indexperson aufgetreten ist. Aufgrund dieser Symptomatik
-</span>kann man die Infektiösität der Indexperson errechnen
+(Infektiösität: 4 - 5 Tage vor bis 4 Tage nach
+</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374620">A</span><span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26371300">uftreten
+des Exanthmens) bei der Indexperson aufgetreten ist. Aufgrund dieser
+Symptomatik </span>kann man die Infektiösität der Indexperson errechnen
 <span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26371310">um</span>
 den Kreis der Kontaktpersonen
 eingrenzen<span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26371310">
@@ -859,9 +736,8 @@ möglich, die labordiagnostische Bestätigung ist zwingend erforderlich.
 <span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26371310">Das
 </span>Untersuchungsmaterial<span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26371310">:</span>
 
-  - Rachenabstrich, Wangenschleimhautabstrich, Abstrich von Zahnleiste,
-    Zahnleistenflüssigkeit oder
-    Speichelsekret<span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26371320">
+  - Rachenabstrich,
+    Wangenschleimhautabstrich<span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26371320">
     und - wenn möglich</span>
 
   - Urin (mind. 5 ml)
@@ -884,10 +760,16 @@ Kontaktpersonen ausreichend geschützt sind - Altersgerechter Impfschutz
 oder Titernachweis mit Bestätigung, das ausreichend Antikörper vorhanden
 sind, um eine Neuinfektion ausschließen
 zukönnen.</span><span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26371540">
-Dabei sind Vorortbegehungen im häuslichen Umfeld oder in einer
-Gemeinschaftseinrichtung zwingend notwendig. Die Ergebnisse sind
-schriftlich und nachvollziehbar durch die Mitarbeiter des
-Gesundheitsamtes zu
+Dabei
+</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374620">muss
+das</span><span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26371540">
+häusliche Umfeld oder
+</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374620">die
+Ge</span><span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26371540">meinschaftseinrichtung</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374620">
+vor Ortbegangen
+werden</span><span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26371540">.
+Die Ergebnisse sind schriftlich und nachvollziehbar durch die
+Mitarbeiter des Gesundheitsamtes zu
 dokumentieren.</span>
 
 <span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26371520">Kontaktpersonen,
@@ -920,11 +802,19 @@ ebenfalls nicht wahrgenommen werden
 dürfen\!</span>
 
 <span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26371550">Ein
-Ausbruch gilt dann als beendet, wenn nach ablauf der Inkubationszeit der
-letzten Neuinfektion keine erneuten Infektionen mehr auftreten. Hierbei
-ist es empfehlenswert einen Abschlussbericht zur Aktendokumentation,
-sowie für die betroffene Gemeinschaftseinrichtung oder
-Gemeinschaftseinrichtungen zu
+Ausbruch gilt dann als beendet, wenn nach
+</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374620">A</span><span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26371550">blauf
+</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374620">von
+zwei
+</span><span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26371550">Inkubationszeit</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374620">en
+nach
+</span><span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26371550">de</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374620">m
+letzten Exanthembeginn
+</span><span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26371550">keine
+</span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374620">Neuinfektionen</span><span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26371550">
+mehr auftreten. Hierbei ist es empfehlenswert einen Abschlussbericht zur
+Aktendokumentation, sowie für die betroffene Gemeinschaftseinrichtung
+oder Gemeinschaftseinrichtungen zu
 verfassen.</span>
 
 <span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26371550">Jeder
@@ -937,92 +827,159 @@ Desweiteren ist die Amtsleitung, das Presseamt und die betroffene
 Gemeinschaftseinrichtung über den aktuellen Stand der Ermittlungen und
 deren Maßnahmen zu unterrichten.</span>
 
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>Gastro</p></td>
-<td><p>Aufgabe</p></td>
-<td><p>Wer kann diese übernehmen</p></td>
-<td><p>Inhalt der Aufgabe</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>Annahme und Verarbeitung der Meldung</p></td>
-<td><p>-</p></td>
-<td><p>-Ermittlung: Zeit, Ort, Person, Kontakte, Infektionsquelle/Exposition, Krankenhausaufenthalt, Symptomatik, Reiseanamnese, Berufliche Tätigkeit (§33, 42)</p>
-<p>-Dokumentation Ansprechpartner</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p>Probennahme</p></td>
-<td></td>
-<td><p>-Stuhl/Urin/Rachen</p>
-<p>-Lebensmittel</p>
-<p>-Haustiere</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p>Bildung Ausbruchsteam</p></td>
-<td></td>
-<td><p>-Zusammenstellung notwendiger Personen</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>Probenverarbeitung</p></td>
-<td></td>
-<td><p>-Kontaktierung der entsprechenden Labors</p>
-<p>-Durchführung der Testungen</p>
-<p>-Implementation der Ergebnisse</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p>Ressourcenbereitstellung</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>Meldung an übergeordnete Stellen</p></td>
-<td></td>
-<td><p>-Information der lokalen Leitung</p>
-<p>-Information der übergeordneten Ämter/Institute</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p>Belehrung Betroffener</p></td>
-<td></td>
-<td><p>-Aufklärung: Hygiene, Desinfektionsmaßnahmen, Übertragungswege, Prophylaxe, Weitere Maßnahmen</p>
-<p>-Aussprechen von Berufsverboten</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>Ausübung von Absonderungsmaßnahmen</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p>Information der Öffentlichkeit</p></td>
-<td></td>
-<td><p>-Informationsweiterleitung an Pressestelle</p></td>
-</tr>
-</tbody>
-</table>
+# Ausbrüche hochpathogener Erreger
 
-<span class="approved-insertion" data-user="54" data-username="BuderM" data-date="26370270">
-</span>
+Hochpathogene Krankheitserreger führen häufig zu schweren
+Krankheitsverläufen mit hoher Sterblichkeitsrate und sind immer eine
+Herausforderung für alle, die mit dem Transport, der Betreuung oder der
+Behandlung eines infizierten Patienten betraut sind. Daher benötigen
+Ausbruchuntersuchungen zu hochpathogenen Erregern neben besonderem
+Sachverstand auch geeignete Schutz- und Hygienemaßnahmen um Personal vor
+Infektion zu schützen.
+
+## **Schutzmaßnahmen**
+
+Im Fall einer Gefahrensituation durch hochpathogene Erreger werden
+Maßnahmen ergriffen, die die Ansteckungsgefahr für die Beteiligten vor
+Ort wie auch für die Bevölkerung verringern. Dabei ist zu gewährleisten,
+dass
+
+  - eine Ausbreitung des Geschehens über den Gefahrenort hinaus
+    verhindert wird,
+
+  - das Einsatzpersonal vor Ansteckung und Kontamination geschützt wird,
+
+  - infizierte und ansteckungsverdächtige Personen schnellstmöglich
+    versorgt und wenn nötig isoliert werden.  
+
+## **Behandlung auf Sonderisolierstation**
+
+Als **** behandelnde(r) Ärztin/Arzt kontaktieren Sie unverzüglich ihr
+lokales Gesundheitsamt, wenn der begründete Verdacht auf eine
+Krankheiten durch hochpathogene Erreger oder Intoxikation besteht.
+
+Welche konkreten Maßnahmen umzusetzen sind, ist vom jeweiligen Erreger,
+oder Toxin, sowie dem ausgelösten Krankheitsbild abhängig und muss nach
+Sachlage entschieden werden. Das Gesundheitsamt kann konkrete
+Hilfestellungen für das weitere Vorgehen geben und notwendige Maßnahmen
+zum Erhalt der öffentlichen Gesundheit einleiten.
+
+Bei bioterroristischen Anschlägen ist die frühzeitige Erkennung und
+Erfassung von möglichen Verdachtsfällen entscheidend. Nur dann kann eine
+angemessene und effiziente Reaktion der Behörden erfolgen.
+
+Welche Befugnisse das Gesundheitsamt hat und welche gesetzlichen
+Meldewege einzuhalten sind, ist im Infektionsschutzgesetz (IfSG)
+geregelt.
+
+## **Isolierung und Behandlung**
+
+In Deutschland gibt es besondere **Kompetenz- und Behandlungszentren**,
+die auf den Umgang mit Patienten mit Krankheiten durch hochpathogene
+Erreger spezialisiert sind. Die **Kompetenzzentren** sind für die
+Beratung, ggf. für die Koordination und Steuerung geeigneter Maßnahmen
+im Falle des Verdachts einer gefährlichen Infektion zuständig. Die
+**Sonderisolierstationen** bieten für die Behandlung von Patienten mit
+hoch ansteckenden Krankheiten neben der fachlich-medizinischen und
+pflegerischen Expertise auch die geeigneten räumlichen und technischen
+Voraussetzungen.
+
+Um das Management und die Versorgung von Patienten mit Krankheiten die
+durch hochpathogene Erreger verursacht werden in Deutschland zu
+verbesseren wurde 2014 ein bundesweites Expertennetzwerk als "Ständiger
+Arbeitskreis der Kompetenz- und Behandlungszentren für Krankheiten durch
+hochpathogene Erreger" (STAKOB)
+([https://www.rki.de/DE/Content/Kommissionen/Stakob/Stakob\_node.html](https://www.rki.de/DE/Content/Kommissionen/Stakob/Stakob_node.html "STAKOB"))
+etabliert.
+
+![<span class="figure-cat-figure">Figure</span><span data-caption="Kompetenzzentren in Deutschland ">Kompetenzzentren
+in Deutschland </span>](bc4ca3d5-c307-4b6d-ab87-a264ddd8b0b7.jpg)
+
+Wenn Erkrankte nicht auf eine der Sonderisolierstationen verlegt werden
+können, sind Absonderungs- bzw. Isolierungsmaßnahmen im regulären
+Krankenhaus durchzuführen. Das so genannte **Barrieremanagement**
+umfasst dabei neben der Arbeit in Schutzausrüstung auch die Versorgung
+des Erkrankten unter diesen besonderen Umständen. So wird beispielsweise
+der Zugang geregelt, indem verschiedene Sicherheitszonen eingerichtet
+werden. Ziel ist es, eine weitere Ausbreitung der Infektion zu
+verhindern bzw. Personen im Umfeld zu schützen.
+
+## **Kontaktpersonen-Management**
+
+Eine zentrale Aufgabe ist das Management von Kontaktpersonen, also von
+Personen, die mit dem Erkrankten in Berührung gekommen sind. Das können
+z.B. betreuendes medizinisches Personal, Familienmitglieder, Freunde,
+Mitreisende oder geschäftliche Kontakte sein.
+
+Um eine Ausbreitung der Krankheit zu verhindern, werden die folgenden
+Maßnahmen - in der Regel von der /**vom zuständigen**
+**Amtsärztin/-arzt** durchgeführt:
+
+  - Ermittlung, Klassifizierung, Beratung der Kontaktpersonen und ihrer
+    Angehörigen
+
+  - Festlegung und Koordination von Maßnahmen (Beobachtung, Anraten der
+    Postexpositionsprophylaxe, Desinfektion, Dekontamination, Quarantäne
+    etc.)
+
+  - Koordination der Amtshilfe (Gesundheits- und ggf.
+    Sicherheitsbehörden)
+
+  - Information (Presse und Öffentlichkeit)
+
+Wie Kontaktpersonenmanagment durchzuführen ist wird auf der Webseite des
+RKI am Beispiel dargestellt
+([https://www.rki.de/DE/Content/Infekt/Biosicherheit/Schutzmassnahmen/Kontakt/Kontakt\_node.html](https://www.rki.de/DE/Content/Infekt/Biosicherheit/Schutzmassnahmen/Kontakt/Kontakt_node.html "https://www.rki.de/DE/Content/Infekt/Biosicherheit/Schutzmassnahmen/Kontakt/Kontakt_node.html")).
+Dazu relevante Mustervorlagen für Gesundheitsämter finden sich hier:
+([https://www.rki.de/DE/Content/InfAZ/E/Ebola/Kontaktpersonen\_Tab.html](https://www.rki.de/DE/Content/InfAZ/E/Ebola/Kontaktpersonen_Tab.html "Mustervorschläge für Gesundheitsämter zum Umgang mit Kontaktpersonen")).
+
+## **Aufgaben des Gesundheitsamtes**
+
+Gemäß § 30 (Quarantäne) IfSG hat das zuständige Gesundheitsamt
+anzuordnen, dass Personen die an einer hochpathogenen
+Infektionserkrankung erkrankt oder dessen verdächtig sind, unverzüglich
+in einem Krankenhaus oder einer für diese Krankheiten geeignete
+Einrichtung abgesondert werden. Nach Möglichkeit sollte die Isolierung
+eines Erkrankten bzw. eines begründeten Verdachtsfalls auf einer
+Sonderisolationsstation erfolgen.
+
+Kommt der Betroffene den seine Absonderung betreffenden Anordnung nicht
+nach oder ist nach seinem bisherigen Verhalten anzunehmen, dass er
+solchen Anordnungen nicht ausreichend Folge leisten wird, so ist er
+zwangsweise durch Unterbringung in einem abgeschlossenen Krankenhaus
+oder einem abgeschlossenen Teil eines Krankenhauses abzusondern.
+Ansteckungsverdächtige und Ausscheider können auch in einer anderen
+geeigneten abgeschlossenen Einrichtung abgesondert werden. Das
+Grundrecht der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 Grundgesetz)
+kann insoweit eingeschränkt werden.
+
+  - Stationäre Aufnahme und strenge Isolierung für Patienten
+
+  - Schutzausrüstung des Personals (PSA)
+
+  - Tätigkeits- und Besuchsverbote nach §34 Abs. 1 IfSG bei Verdacht/
+    Erkankung für Gemeinschaftseinrichtungen
+
+  - Information an den Leiter der Gemeinschaftseinrichtung
+
+  - Wiederzulassung durch Arzt und
+Gesundheitsamt
+
+https://www.sicherheit-forschung.de/forschungsforum/schriftenreihe\_neu/sr\_v\_v/SchriftenreiheSicherheit\_06.pdf
+
+Anhang
+
+Links
+
+[https://www.cdc.gov/csels/dsepd/ss1978/lesson6/section2.html](https://www.cdc.gov/csels/dsepd/ss1978/lesson6/section2.html "https://www.cdc.gov/csels/dsepd/ss1978/lesson6/section2.html")
+
+[https://wiki.ecdc.europa.eu/fem/Pages/Outbreak%20investigations%2010%20steps,%2010%20pitfalls.aspx](https://wiki.ecdc.europa.eu/fem/Pages/Outbreak%20investigations%2010%20steps,%2010%20pitfalls.aspx "https://wiki.ecdc.europa.eu/fem/Pages/Outbreak%20investigations%2010%20steps,%2010%20pitfalls.aspx")
+
+[https://www.cdc.gov/eis/field-epi-manual/chapters/Field-Investigation.html](https://www.cdc.gov/eis/field-epi-manual/chapters/Field-Investigation.html "https://www.cdc.gov/eis/field-epi-manual/chapters/Field-Investigation.html")
+
+[https://wwwnc.cdc.gov/eid/article/4/1/98-0104\_article](https://wwwnc.cdc.gov/eid/article/4/1/98-0104_article "https://wwwnc.cdc.gov/eid/article/4/1/98-0104_article")
+
+https://www.cdc.gov/eis/field-epi-manual/chapters/Field-Investigation.html
 
 # 
 

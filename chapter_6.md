@@ -102,6 +102,10 @@ Verbraucherschutz und Lebensmittelsicherheit.
 
 <span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26371210">https://www.rki.de/DE/Content/Infekt/Ausbrueche/nosokomial/nosokomiale\_Ausbrueche\_node.html</span>
 
+<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372980">https://edoc.rki.de/bitstream/handle/176904/948/27SMqNuDowQOs.pdf?sequence=1\&isAllowed=y</span>
+
+<span class="approved-insertion" data-user="51" data-username="HallerS" data-date="26372980">https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Kommission/Downloads/Ausbr\_RiliHeft.pdf?\_\_blob=publicationFile</span>
+
 ## Linelist-Werkzeug
 
 Das Linelist-Werkzeug
@@ -265,7 +269,8 @@ Ausbruchsbearbeitung. Idealerweise werden die Einträge so geschrieben,
 dass neue Arbeitskollegen oder -kolleginnen sich an Hand des Logbuchs
 selbstständig in das Geschehen einarbeiten können. Ausbruchslogbücher
 dienen auch der historischen Dokumentation des Ausbruchs und als Quelle
-für z.B.
+<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">z.B.
+für spätere</span>
 Publikationen.<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371730">
 Der Grad der dokumentierten Details</span> sollte der Art des Ausbruchs
 angemessen sein und die
@@ -306,8 +311,15 @@ Folgende Struktur hat sich bewährt:
     Person
     <span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26371650">zusammengefasst
     </span>werden<span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26371650">.
-    Diese Zusammenfassung sollte dynamisch geändert werden und dient
-    nach Beendigung der Aktivitäten als
+    Diese Zusammenfassung
+    </span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26374630">(z.B.
+    Anzahl der betroffenen Fälle, Datum der ersten gemeldeten Fälle,
+    Datum und Uhrzeit des Beginns der ersten Fälle und der
+    Laborbestätigung, Symptome, Schweregrad, geografische Verteilung,
+    Geschlechtsverteilung)
+    </span><span class="approved-insertion" data-user="52" data-username="BurckhardtF" data-date="26371650">sollte
+    dynamisch geändert werden und dient nach Beendigung der Aktivitäten
+    als
     Kurzzusammenfassung</span>
 
   - <span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371730">Der
@@ -315,15 +327,6 @@ Folgende Struktur hat sich bewährt:
     <span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371730">beispielsweise</span>
     die Art des Ausbruchs, den vermuteten Erreger, den Ort und das Datum
     enthalten.
-
-  - <span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371730">die
-    </span>Hintergrund<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371730">informationen
-    sollten beispielsweise </span>Einzelheiten zum Ausbruch (z.B. Anzahl
-    der betroffenen Fälle, Datum der ersten gemeldeten Fälle, Datum und
-    Uhrzeit des Beginns der ersten Fälle und der Laborbestätigung,
-    Symptome, Schweregrad, geografische Verteilung,
-    Geschlechtsverteilung)<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371730">
-    erhalten</span>
 
   - <span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26371730">als
     Informationen über m</span>ikrobiologische Untersuchungen sollte
@@ -355,9 +358,10 @@ Folgende Struktur hat sich bewährt:
     Ermittlungsbögen
 
   - <span class="approved-insertion" data-user="47" data-username="Wagner-WieningC" data-date="26372720">B</span>eispiele
-    für Evaluationsbögen/Schwachstellenanalyse
+    für
+Evaluationsbögen/Schwachstellenanalyse
 
-  - 
+# <span class="approved-insertion" data-user="55" data-username="MatheP" data-date="26372830">Anlage - Evaluationsbogen</span>
 
 <div class="section fnlist" data-role="doc-footnotes">
 
